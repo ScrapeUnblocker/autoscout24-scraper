@@ -1,0 +1,359 @@
+{
+ "props": {
+  "pageProps": {
+   "marketplace": {
+    "domain": "autoscout24",
+    "country": {
+     "iso": "gb",
+     "tld": "com"
+    },
+    "language": {
+     "iso": "en"
+    },
+    "etldPlusOne": "autoscout24.com",
+    "slug": "AS_en_GB"
+   },
+   "pageid": "list",
+   "pageQuery": {
+    "ustate": "N,U",
+    "sort": "standard",
+    "desc": "0",
+    "atype": "C",
+    "powertype": "kw",
+    "show_nfm": "true",
+    "pricetype": "public",
+    "query_id": "cutm1vmev9",
+    "cy": "D,A,B,E,F,I,L,NL",
+    "tier_rotation": "true"
+   },
+   "numberOfResults": 2174187,
+   "numberOfPages": 200,
+   "listHeaderTitle": "2,174,187 used car offers",
+   "listings": [],
+   "taxonomy": {
+    "fuelType": [
+     {
+      "label": "Electric/Gasoline",
+      "value": "2"
+     },
+     {
+      "label": "Electric/Diesel",
+      "value": "3"
+     },
+     {
+      "label": "Gasoline",
+      "value": "B"
+     },
+     {
+      "label": "CNG",
+      "value": "C"
+     },
+     {
+      "label": "Diesel",
+      "value": "D"
+     },
+     {
+      "label": "Electric",
+      "value": "E"
+     },
+     {
+      "label": "Hydrogen",
+      "value": "H"
+     },
+     {
+      "label": "LPG",
+      "value": "L"
+     },
+     {
+      "label": "Ethanol",
+      "value": "M"
+     },
+     {
+      "label": "Others",
+      "value": "O"
+     }
+    ],
+    "bodyType": [
+     {
+      "label": "Compact",
+      "value": 1
+     },
+     {
+      "label": "Convertible",
+      "value": 2
+     },
+     {
+      "label": "Coupe",
+      "value": 3
+     },
+     {
+      "label": "SUV/Off-Road/Pick-Up",
+      "value": 4
+     },
+     {
+      "label": "Station Wagon",
+      "value": 5
+     },
+     {
+      "label": "Sedan",
+      "value": 6
+     },
+     {
+      "label": "Van",
+      "value": 12
+     },
+     {
+      "label": "Transporter",
+      "value": 13
+     },
+     {
+      "label": "Other",
+      "value": 7
+     }
+    ],
+    "gearing": [
+     {
+      "label": "Automatic",
+      "value": "A"
+     },
+     {
+      "label": "Manual",
+      "value": "M"
+     },
+     {
+      "label": "Semi-automatic",
+      "value": "S"
+     }
+    ],
+    "offer": [
+     {
+      "label": "New",
+      "value": "N"
+     },
+     {
+      "label": "Used",
+      "value": "U"
+     },
+     {
+      "label": "Employee's car",
+      "value": "J"
+     },
+     {
+      "label": "Antique / Classic",
+      "value": "O"
+     },
+     {
+      "label": "Demonstration",
+      "value": "D"
+     },
+     {
+      "label": "Pre-registered",
+      "value": "S"
+     }
+    ],
+    "customerType": [
+     {
+      "label": "Dealer",
+      "value": "D"
+     },
+     {
+      "label": "Private",
+      "value": "P"
+     }
+    ],
+    "bodyColor": [
+     {
+      "label": "Beige",
+      "value": 1
+     },
+     {
+      "label": "Blue",
+      "value": 2
+     },
+     {
+      "label": "Brown",
+      "value": 3
+     },
+     {
+      "label": "Bronze",
+      "value": 4
+     },
+     {
+      "label": "Yellow",
+      "value": 5
+     },
+     {
+      "label": "Grey",
+      "value": 6
+     },
+     {
+      "label": "Green",
+      "value": 7
+     },
+     {
+      "label": "Red",
+      "value": 10
+     },
+     {
+      "label": "Black",
+      "value": 11
+     },
+     {
+      "label": "Silver",
+      "value": 12
+     },
+     {
+      "label": "Violet",
+      "value": 13
+     },
+     {
+      "label": "White",
+      "value": 14
+     },
+     {
+      "label": "Orange",
+      "value": 15
+     },
+     {
+      "label": "Gold",
+      "value": 16
+     }
+    ],
+    "country": [
+     {
+      "label": "Europe",
+      "value": "A,B,D,E,F,I,L,NL",
+      "countryCode": "eu"
+     },
+     {
+      "label": "Austria",
+      "value": "A",
+      "countryCode": "AT"
+     },
+     {
+      "label": "Belgium",
+      "value": "B",
+      "countryCode": "BE"
+     },
+     {
+      "label": "Germany",
+      "value": "D",
+      "countryCode": "DE"
+     },
+     {
+      "label": "Spain",
+      "value": "E",
+      "countryCode": "ES"
+     },
+     {
+      "label": "France",
+      "value": "F",
+      "countryCode": "FR"
+     },
+     {
+      "label": "Italy",
+      "value": "I",
+      "countryCode": "IT"
+     },
+     {
+      "label": "Luxembourg",
+      "value": "L",
+      "countryCode": "LU"
+     },
+     {
+      "label": "Netherlands",
+      "value": "NL",
+      "countryCode": "NL"
+     }
+    ],
+    "sortingKeys": [
+     {
+      "label": "Price",
+      "value": "price"
+     },
+     {
+      "label": "Rate",
+      "value": "financerate"
+     },
+     {
+      "label": "Make/Model",
+      "value": "make"
+     },
+     {
+      "label": "Leasing Rate",
+      "value": "leasing_rate"
+     },
+     {
+      "label": "First registration",
+      "value": "year"
+     },
+     {
+      "label": "Mileage",
+      "value": "mileage"
+     },
+     {
+      "label": "Power",
+      "value": "power"
+     },
+     {
+      "label": "Latest offers first",
+      "value": "age"
+     },
+     {
+      "label": "Best results",
+      "value": "standard"
+     },
+     {
+      "label": "By distance",
+      "value": "distance"
+     }
+    ],
+    "makesSorted": [
+     {
+      "label": "Alfa Romeo",
+      "value": 6
+     },
+     {
+      "label": "Audi",
+      "value": 9
+     },
+     {
+      "label": "BMW",
+      "value": 13
+     },
+     {
+      "label": "Citroen",
+      "value": 21
+     },
+     {
+      "label": "Fiat",
+      "value": 28
+     },
+     {
+      "label": "Mercedes-Benz",
+      "value": 47
+     },
+     {
+      "label": "Porsche",
+      "value": 57
+     },
+     {
+      "label": "Volkswagen",
+      "value": 74
+     },
+     {
+      "label": "Volvo",
+      "value": 73
+     }
+    ]
+   }
+  }
+ },
+ "page": "/lst/[...slug]",
+ "query": {
+  "atype": "C",
+  "slug": [
+   "foobarmake"
+  ]
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "props": {
+  "pageProps": {
+   "marketplace": {
+    "domain": "autoscout24",
+    "country": {
+     "iso": "gb",
+     "tld": "com"
+    },
+    "language": {
+     "iso": "en"
+    },
+    "etldPlusOne": "autoscout24.com",
+    "slug": "AS_en_GB"
+   },
+   "pageid": "list",
+   "pageQuery": {
+    "cat": "ma13mo20288",
+    "ustate": "N,U",
+    "sort": "standard",
+    "desc": "0",
+    "atype": "C",
+    "powertype": "kw",
+    "mcat": "ma13mo20288",
+    "mmmv": "13|20288||",
+    "show_nfm": "true",
+    "pricetype": "public",
+    "query_id": "qx1j7ixaaz",
+    "cy": "D,A,B,E,F,I,L,NL",
+    "tier_rotation": "true"
+   },
+   "numberOfResults": 335,
+   "numberOfPages": 17,
+   "listHeaderTitle": "335 listings for BMW 435",
+   "listings": []
+  }
+ },
+ "page": "/lst/[...slug]",
+ "query": {
+  "slug": [
+   "bmw",
+   "435"
+  ]
+ }
+}

@@ -1,0 +1,660 @@
+{
+ "props": {
+  "pageProps": {
+   "marketplace": {
+    "domain": "autoscout24",
+    "country": {
+     "iso": "it",
+     "tld": "it"
+    },
+    "language": {
+     "iso": "it"
+    },
+    "etldPlusOne": "autoscout24.it",
+    "slug": "AS_it_IT"
+   },
+   "pageid": "list",
+   "pageQuery": {
+    "cat": "ma28mo15160",
+    "ustate": "N,U",
+    "sort": "age",
+    "desc": "1",
+    "atype": "C",
+    "powertype": "kw",
+    "mcat": "ma28mo15160",
+    "mmmv": "28|15160||",
+    "zip": "Milano",
+    "zipr": "50",
+    "lat": "45.46362",
+    "lon": "9.18812",
+    "cy": "I",
+    "show_nfm": "true",
+    "pricetype": "public",
+    "query_id": "1lthq3qo4rh",
+    "tier_rotation": "true"
+   },
+   "numberOfResults": 974,
+   "numberOfPages": 51,
+   "listHeaderTitle": "974 Offerte di Fiat 500 a Milano",
+   "listings": [
+    {
+     "id": "33b74a13-1142-4cdb-8678-bbc1149f5abc",
+     "title": "Fiat 500",
+     "evBanner": {
+      "type": "hybrid",
+      "label": "Ibrida"
+     },
+     "isTrending": false,
+     "identifier": {
+      "legacyId": null,
+      "crossReferenceId": "3C8DBC6C-D584-4948-BE55-9C9B3C0D3A7C"
+     },
+     "crossReferenceId": "3C8DBC6C-D584-4948-BE55-9C9B3C0D3A7C",
+     "images": [
+      "https://prod.pictures.autoscout24.net/listing-images/33b74a13-1142-4cdb-8678-bbc1149f5abc_37fe4cdf-6c94-4822-9110-eb68b06afb9b.jpg/250x188.webp",
+      "https://prod.pictures.autoscout24.net/listing-images/33b74a13-1142-4cdb-8678-bbc1149f5abc_844bce11-a158-4ce1-bb88-bbb68d2ba789.jpg/250x188.webp"
+     ],
+     "isOfferNew": true,
+     "price": {
+      "priceFormatted": "€ 16.842",
+      "priceEvaluation": 2,
+      "isVatLabelLegallyRequired": false,
+      "priceRaw": 16842,
+      "isPriceEvaluationEnabled": true,
+      "isConditionalPrice": true
+     },
+     "availableNow": true,
+     "availability": {
+      "fromDate": null,
+      "inDays": null
+     },
+     "superDeal": {
+      "oldPriceFormatted": "",
+      "isEligible": false
+     },
+     "url": "/annunci/fiat-500-1-0-hybrid-torino-elettrica-benzina-blu-azzurro-cat_ma28mo15160-33b74a13-1142-4cdb-8678-bbc1149f5abc",
+     "vehicle": {
+      "articleType": "Car",
+      "type": "Car",
+      "make": "Fiat",
+      "model": "500",
+      "modelGroup": "500",
+      "variant": null,
+      "motorTypeName": null,
+      "modelId": 15160,
+      "modelVersionInput": "1.0 hybrid Torino",
+      "modelVersionCustom": null,
+      "subtitle": "Example dealer tagline",
+      "offerType": "U",
+      "transmission": "Manuale",
+      "fuel": "Elettrica/Benzina",
+      "mileageInKm": "16 km",
+      "engineDisplacementInCCM": "999 cm³"
+     },
+     "location": {
+      "countryCode": "IT",
+      "zip": "20821",
+      "city": "Meda - Monza Brianza - MB",
+      "street": "Example Street 1",
+      "distanceToSearchLocationInKm": 22
+     },
+     "ratings": {
+      "ratingsCount": 505,
+      "ratingsStars": 5,
+      "ratingsEnabled": true
+     },
+     "seller": {
+      "dealer": {
+       "culture": "it-IT"
+      },
+      "id": "11105011",
+      "type": "Dealer",
+      "companyName": "Example Autohaus 011",
+      "contactName": "Sales Team",
+      "links": {
+       "infoPage": "https://www.autoscout24.it/concessionari/example-autohaus?atype=C",
+       "imprint": "https://www.autoscout24.it/concessionari/example-autohaus/informazioni"
+      },
+      "phones": [
+       {
+        "phoneType": "Office",
+        "formattedNumber": "+49 (0)30 - 00000013",
+        "callTo": "+493000000013"
+       },
+       {
+        "phoneType": "Office",
+        "formattedNumber": "+49 (0)30 - 00000014",
+        "callTo": "+493000000014"
+       },
+       {
+        "phoneType": "Whatsapp",
+        "formattedNumber": "+49 (0)30 - 00000015",
+        "callTo": "+493000000015"
+       }
+      ]
+     },
+     "appliedAdTier": "T50",
+     "adTier": "T50",
+     "isOcs": false,
+     "specialConditions": [],
+     "statistics": {
+      "leadsRange": "Zero"
+     },
+     "searchResultType": "Nfm",
+     "searchResultSection": "Main",
+     "tracking": {
+      "firstRegistration": "05-2026",
+      "fuelType": "2",
+      "mileage": "16",
+      "priceLabel": "good-price",
+      "price": "16842"
+     },
+     "vehicleDetails": [
+      {
+       "data": "16 km",
+       "iconName": "mileage_odometer",
+       "ariaLabel": "Chilometraggio"
+      },
+      {
+       "data": "Manuale",
+       "iconName": "gearbox",
+       "ariaLabel": "Cambio"
+      },
+      {
+       "data": "05/2026",
+       "iconName": "calendar",
+       "ariaLabel": "Anno"
+      },
+      {
+       "data": "Elettrica/Benzina",
+       "iconName": "gas_pump",
+       "ariaLabel": "Carburante"
+      },
+      {
+       "data": "48 kW (65 CV)",
+       "iconName": "speedometer",
+       "ariaLabel": "Potenza"
+      }
+     ],
+     "wltpValues": [],
+     "trackingParameters": [
+      {
+       "key": "boost_level",
+       "value": "t50"
+      },
+      {
+       "key": "applied_boost_level",
+       "value": "t50"
+      },
+      {
+       "key": "relevance_adjustment",
+       "value": "sponsored"
+      },
+      {
+       "key": "boosting_product",
+       "value": "mia"
+      }
+     ]
+    },
+    {
+     "id": "9091be24-e0b5-4f23-a966-95570da9f6db",
+     "title": "Fiat 500",
+     "evBanner": {
+      "type": "hybrid",
+      "label": "Ibrida"
+     },
+     "isTrending": false,
+     "identifier": {
+      "legacyId": null,
+      "crossReferenceId": null
+     },
+     "images": [
+      "https://prod.pictures.autoscout24.net/listing-images/9091be24-e0b5-4f23-a966-95570da9f6db_806fe751-e47a-4015-8bf6-e5ec3c6cc8f0.jpg/250x188.webp",
+      "https://prod.pictures.autoscout24.net/listing-images/9091be24-e0b5-4f23-a966-95570da9f6db_a2f17436-d05e-4f21-ada7-b6e228e20e7c.jpg/250x188.webp"
+     ],
+     "isOfferNew": true,
+     "price": {
+      "priceFormatted": "€ 13.000",
+      "priceEvaluation": 0,
+      "isVatLabelLegallyRequired": false,
+      "priceSuperscriptString": "1",
+      "priceRaw": 13000,
+      "isPriceEvaluationEnabled": true,
+      "isConditionalPrice": true
+     },
+     "availableNow": true,
+     "availability": {
+      "fromDate": null,
+      "inDays": null
+     },
+     "superDeal": {
+      "oldPriceFormatted": "",
+      "isEligible": false
+     },
+     "url": "/annunci/fiat-500-1-0-hybrid-icon-elettrica-benzina-lilla-cat_ma28mo15160-9091be24-e0b5-4f23-a966-95570da9f6db",
+     "vehicle": {
+      "articleType": "Car",
+      "type": "Car",
+      "make": "Fiat",
+      "model": "500",
+      "modelGroup": "500",
+      "variant": null,
+      "motorTypeName": null,
+      "modelId": 15160,
+      "modelVersionInput": "1.0 Hybrid Icon",
+      "modelVersionCustom": null,
+      "subtitle": "Example dealer tagline",
+      "offerType": "U",
+      "transmission": "Manuale",
+      "fuel": "Elettrica/Benzina",
+      "mileageInKm": "1 km",
+      "engineDisplacementInCCM": "999 cm³"
+     },
+     "location": {
+      "countryCode": "IT",
+      "zip": "20025",
+      "city": "Legnano - MI - Milano",
+      "street": "Example Street 1",
+      "distanceToSearchLocationInKm": 26
+     },
+     "ratings": {
+      "ratingsCount": 34,
+      "ratingsStars": 3,
+      "ratingsEnabled": true
+     },
+     "seller": {
+      "dealer": {
+       "culture": "it-IT"
+      },
+      "id": "51219019",
+      "type": "Dealer",
+      "companyName": "Example Autohaus 019",
+      "contactName": "Sales Team",
+      "links": {
+       "infoPage": "https://www.autoscout24.it/concessionari/example-autohaus?atype=C",
+       "imprint": "https://www.autoscout24.it/concessionari/example-autohaus/informazioni"
+      },
+      "phones": [
+       {
+        "phoneType": "Office",
+        "formattedNumber": "+49 (0)30 - 00000016",
+        "callTo": "+493000000016"
+       },
+       {
+        "phoneType": "Office",
+        "formattedNumber": "+49 (0)30 - 00000017",
+        "callTo": "+493000000017"
+       },
+       {
+        "phoneType": "Whatsapp",
+        "formattedNumber": "+49 (0)30 - 00000018",
+        "callTo": "+493000000018"
+       }
+      ]
+     },
+     "appliedAdTier": "T50",
+     "adTier": "T50",
+     "isOcs": false,
+     "specialConditions": [],
+     "statistics": {
+      "leadsRange": "Some"
+     },
+     "searchResultType": "Nfm",
+     "searchResultSection": "Main",
+     "tracking": {
+      "firstRegistration": "04-2026",
+      "fuelType": "2",
+      "mileage": "1",
+      "priceLabel": "toolow-price ",
+      "price": "13000"
+     },
+     "vehicleDetails": [
+      {
+       "data": "1 km",
+       "iconName": "mileage_odometer",
+       "ariaLabel": "Chilometraggio"
+      },
+      {
+       "data": "Manuale",
+       "iconName": "gearbox",
+       "ariaLabel": "Cambio"
+      },
+      {
+       "data": "04/2026",
+       "iconName": "calendar",
+       "ariaLabel": "Anno"
+      },
+      {
+       "data": "Elettrica/Benzina",
+       "iconName": "gas_pump",
+       "ariaLabel": "Carburante"
+      },
+      {
+       "data": "48 kW (65 CV)",
+       "iconName": "speedometer",
+       "ariaLabel": "Potenza"
+      }
+     ],
+     "wltpValues": [],
+     "trackingParameters": [
+      {
+       "key": "boost_level",
+       "value": "t50"
+      },
+      {
+       "key": "applied_boost_level",
+       "value": "t50"
+      },
+      {
+       "key": "relevance_adjustment",
+       "value": "sponsored"
+      },
+      {
+       "key": "boosting_product",
+       "value": "mia"
+      }
+     ]
+    },
+    {
+     "id": "97ad4cb7-7b8e-4c3a-9891-0b6719a0c430",
+     "title": "Fiat 500",
+     "evBanner": {
+      "type": "hybrid",
+      "label": "Ibrida"
+     },
+     "isTrending": false,
+     "identifier": {
+      "legacyId": null,
+      "crossReferenceId": null
+     },
+     "images": [
+      "https://prod.pictures.autoscout24.net/listing-images/97ad4cb7-7b8e-4c3a-9891-0b6719a0c430_7ee291d1-ea26-4bf6-b360-23202c02ea51.jpg/250x188.webp",
+      "https://prod.pictures.autoscout24.net/listing-images/97ad4cb7-7b8e-4c3a-9891-0b6719a0c430_9b65a5bb-f793-4de4-89a1-c6b51dad8d08.jpg/250x188.webp"
+     ],
+     "isOfferNew": true,
+     "price": {
+      "priceFormatted": "€ 14.900",
+      "priceEvaluation": 4,
+      "isVatLabelLegallyRequired": false,
+      "priceRaw": 14900,
+      "isPriceEvaluationEnabled": true,
+      "isConditionalPrice": false
+     },
+     "availableNow": true,
+     "availability": {
+      "fromDate": null,
+      "inDays": null
+     },
+     "superDeal": {
+      "oldPriceFormatted": "",
+      "isEligible": false
+     },
+     "url": "/annunci/fiat-500-1-0-hybrid-dolcevita-70cv-elettrica-benzina-cat_ma28mo15160-97ad4cb7-7b8e-4c3a-9891-0b6719a0c430",
+     "vehicle": {
+      "articleType": "Car",
+      "type": "Car",
+      "make": "Fiat",
+      "model": "500",
+      "modelGroup": "500",
+      "variant": null,
+      "motorTypeName": null,
+      "modelId": 15160,
+      "modelVersionInput": "1.0 hybrid Dolcevita 70cv",
+      "modelVersionCustom": null,
+      "subtitle": null,
+      "offerType": "U",
+      "transmission": "Manuale",
+      "fuel": "Elettrica/Benzina",
+      "mileageInKm": "29.000 km",
+      "engineDisplacementInCCM": "999 cm³"
+     },
+     "location": {
+      "countryCode": "IT",
+      "zip": "27029",
+      "city": "Vigevano",
+      "distanceToSearchLocationInKm": 31
+     },
+     "seller": {
+      "dealer": {},
+      "id": "64462249",
+      "type": "PrivateSeller",
+      "links": {
+       "infoPage": "/lst?atype=C&cid=64462249"
+      },
+      "phones": [
+       {
+        "phoneType": "Private",
+        "formattedNumber": "+49 (0)30 - 00000019",
+        "callTo": "+493000000019"
+       }
+      ]
+     },
+     "appliedAdTier": "T10",
+     "adTier": "T10",
+     "isOcs": false,
+     "specialConditions": [],
+     "statistics": {
+      "leadsRange": "Zero"
+     },
+     "searchResultType": "Organic",
+     "searchResultSection": "Main",
+     "tracking": {
+      "firstRegistration": "07-2023",
+      "fuelType": "2",
+      "mileage": "29000",
+      "priceLabel": "somewhat-expensive",
+      "price": "14900"
+     },
+     "vehicleDetails": [
+      {
+       "data": "29.000 km",
+       "iconName": "mileage_odometer",
+       "ariaLabel": "Chilometraggio"
+      },
+      {
+       "data": "Manuale",
+       "iconName": "gearbox",
+       "ariaLabel": "Cambio"
+      },
+      {
+       "data": "07/2023",
+       "iconName": "calendar",
+       "ariaLabel": "Anno"
+      },
+      {
+       "data": "Elettrica/Benzina",
+       "iconName": "gas_pump",
+       "ariaLabel": "Carburante"
+      },
+      {
+       "data": "51 kW (69 CV)",
+       "iconName": "speedometer",
+       "ariaLabel": "Potenza"
+      }
+     ],
+     "wltpValues": [],
+     "trackingParameters": [
+      {
+       "key": "boost_level",
+       "value": "t10"
+      },
+      {
+       "key": "applied_boost_level",
+       "value": "t10"
+      },
+      {
+       "key": "relevance_adjustment",
+       "value": "organic"
+      },
+      {
+       "key": "boosting_product",
+       "value": "none"
+      }
+     ]
+    },
+    {
+     "id": "678e2a13-d1c4-41a4-90f7-f4a7c6746249",
+     "title": "Fiat 500",
+     "evBanner": {
+      "type": "hybrid",
+      "label": "Ibrida"
+     },
+     "isTrending": false,
+     "identifier": {
+      "legacyId": null,
+      "crossReferenceId": null
+     },
+     "images": [
+      "https://prod.pictures.autoscout24.net/listing-images/678e2a13-d1c4-41a4-90f7-f4a7c6746249_10b90603-792f-42c5-8ebd-8daadc2881a1.jpg/250x188.webp",
+      "https://prod.pictures.autoscout24.net/listing-images/678e2a13-d1c4-41a4-90f7-f4a7c6746249_fc9eba0d-ffe0-48a9-ad77-53f51a154357.jpg/250x188.webp"
+     ],
+     "isOfferNew": true,
+     "price": {
+      "priceFormatted": "€ 19.900",
+      "priceEvaluation": 3,
+      "isVatLabelLegallyRequired": false,
+      "priceSuperscriptString": "1",
+      "priceRaw": 19900,
+      "isPriceEvaluationEnabled": true,
+      "isConditionalPrice": false
+     },
+     "availableNow": true,
+     "availability": {
+      "fromDate": null,
+      "inDays": null
+     },
+     "superDeal": {
+      "oldPriceFormatted": "",
+      "isEligible": false
+     },
+     "url": "/annunci/fiat-500-500-1-0-hybrid-65-cv-la-prima-elettrica-benzina-blu-azzurro-cat_ma28mo15160-678e2a13-d1c4-41a4-90f7-f4a7c6746249",
+     "vehicle": {
+      "articleType": "Car",
+      "type": "Car",
+      "make": "Fiat",
+      "model": "500",
+      "modelGroup": "500",
+      "variant": null,
+      "motorTypeName": null,
+      "modelId": 15160,
+      "modelVersionInput": "500 1.0 Hybrid 65 cv La Prima",
+      "modelVersionCustom": null,
+      "subtitle": null,
+      "offerType": "U",
+      "transmission": "Manuale",
+      "fuel": "Elettrica/Benzina",
+      "mileageInKm": "1 km",
+      "engineDisplacementInCCM": "999 cm³"
+     },
+     "location": {
+      "countryCode": "IT",
+      "zip": "24018",
+      "city": "Villa D'almè - Bergamo",
+      "street": "Example Street 1",
+      "distanceToSearchLocationInKm": 46
+     },
+     "ratings": {
+      "ratingsCount": 281,
+      "ratingsStars": 5,
+      "ratingsEnabled": true
+     },
+     "seller": {
+      "dealer": {
+       "culture": "it-IT"
+      },
+      "id": "9457999",
+      "type": "Dealer",
+      "companyName": "Example Autohaus 999",
+      "contactName": "Sales Team",
+      "links": {
+       "infoPage": "https://www.autoscout24.it/concessionari/example-autohaus?atype=C",
+       "imprint": "https://www.autoscout24.it/concessionari/example-autohaus/informazioni"
+      },
+      "phones": [
+       {
+        "phoneType": "Office",
+        "formattedNumber": "+49 (0)30 - 00000020",
+        "callTo": "+493000000020"
+       }
+      ]
+     },
+     "appliedAdTier": "T10",
+     "adTier": "T10",
+     "isOcs": false,
+     "specialConditions": [],
+     "statistics": {
+      "leadsRange": "Zero"
+     },
+     "searchResultType": "Organic",
+     "searchResultSection": "Main",
+     "tracking": {
+      "firstRegistration": "05-2026",
+      "fuelType": "2",
+      "mileage": "1",
+      "priceLabel": "fair-price",
+      "price": "19900"
+     },
+     "vehicleDetails": [
+      {
+       "data": "1 km",
+       "iconName": "mileage_odometer",
+       "ariaLabel": "Chilometraggio"
+      },
+      {
+       "data": "Manuale",
+       "iconName": "gearbox",
+       "ariaLabel": "Cambio"
+      },
+      {
+       "data": "05/2026",
+       "iconName": "calendar",
+       "ariaLabel": "Anno"
+      },
+      {
+       "data": "Elettrica/Benzina",
+       "iconName": "gas_pump",
+       "ariaLabel": "Carburante"
+      },
+      {
+       "data": "48 kW (65 CV)",
+       "iconName": "speedometer",
+       "ariaLabel": "Potenza"
+      }
+     ],
+     "wltpValues": [],
+     "trackingParameters": [
+      {
+       "key": "boost_level",
+       "value": "t10"
+      },
+      {
+       "key": "applied_boost_level",
+       "value": "t10"
+      },
+      {
+       "key": "relevance_adjustment",
+       "value": "organic"
+      },
+      {
+       "key": "boosting_product",
+       "value": "none"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "page": "/lst/[...slug]",
+ "query": {
+  "atype": "C",
+  "cy": "I",
+  "zip": "Milano",
+  "zipr": "50",
+  "sort": "age",
+  "desc": "1",
+  "slug": [
+   "fiat",
+   "500"
+  ]
+ }
+}

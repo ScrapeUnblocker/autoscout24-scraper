@@ -1,0 +1,247 @@
+{
+ "props": {
+  "pageProps": {
+   "pageid": "detail",
+   "marketplace": {
+    "domain": "autoscout24",
+    "country": {
+     "iso": "gb",
+     "tld": "com"
+    },
+    "language": {
+     "iso": "en"
+    },
+    "etldPlusOne": "autoscout24.com",
+    "slug": "AS_en_GB"
+   },
+   "listingDetails": {
+    "id": "97ad4cb7-7b8e-4c3a-9891-0b6719a0c430",
+    "title": "Fiat 500",
+    "description": null,
+    "images": [
+     "https://prod.pictures.autoscout24.net/listing-images/97ad4cb7-7b8e-4c3a-9891-0b6719a0c430_7ee291d1-ea26-4bf6-b360-23202c02ea51.jpg/1280x960.webp",
+     "https://prod.pictures.autoscout24.net/listing-images/97ad4cb7-7b8e-4c3a-9891-0b6719a0c430_9b65a5bb-f793-4de4-89a1-c6b51dad8d08.jpg/1280x960.webp",
+     "https://prod.pictures.autoscout24.net/listing-images/97ad4cb7-7b8e-4c3a-9891-0b6719a0c430_a1a88f14-9148-4451-abab-9296a48baa4f.jpg/1280x960.webp"
+    ],
+    "prices": {
+     "isFinalPrice": false,
+     "public": {
+      "price": "€ 14,900",
+      "priceRaw": 14900,
+      "taxDeductible": false,
+      "negotiable": false,
+      "onRequestOnly": false,
+      "netPrice": "€ 12,213",
+      "netPriceRaw": 12213,
+      "vatRate": 22,
+      "category": null,
+      "median": null,
+      "evaluationRanges": null
+     },
+     "dealer": {
+      "price": "€ 14,900",
+      "priceRaw": 14900,
+      "taxDeductible": false,
+      "negotiable": false,
+      "onRequestOnly": false,
+      "netPrice": null,
+      "netPriceRaw": null,
+      "vatRate": 22,
+      "category": null,
+      "median": null,
+      "evaluationRanges": null
+     },
+     "suggestedRetail": null,
+     "popupUrl": "https://www.autoscout24.com/priceevaluation/price-label-explanation-page/97ad4cb7-7b8e-4c3a-9891-0b6719a0c430?culture=en-GB",
+     "error": null
+    },
+    "price": {
+     "priceFormatted": "€ 14,900",
+     "isVatLabelLegallyRequired": false,
+     "isConditionalPrice": false
+    },
+    "vehicle": {
+     "make": "Fiat",
+     "model": "500",
+     "modelGroup": "500",
+     "variant": null,
+     "modelVersionInput": "1.0 hybrid Dolcevita 70cv",
+     "modelVersionCustom": null,
+     "type": "Car",
+     "mileageInKmRaw": 29000,
+     "mileageInKm": "29,000 km",
+     "firstRegistrationDateRaw": "2023-07-01",
+     "firstRegistrationDate": "07/2023",
+     "bodyType": "Compact",
+     "numberOfSeats": 4,
+     "numberOfDoors": 3,
+     "bodyColor": null,
+     "paintType": null,
+     "bodyColorOriginal": null,
+     "upholstery": null,
+     "upholsteryColor": null,
+     "rawPowerInKw": 51,
+     "rawPowerInHp": 69,
+     "powerInKw": "51 kW",
+     "powerInHp": "69 hp",
+     "transmissionType": "Manual",
+     "gears": 6,
+     "cylinders": 3,
+     "driveTrain": "Front Wheel Drive",
+     "rawDisplacementInCCM": 999,
+     "weight": "980 kg",
+     "fuelCategory": {
+      "raw": "2",
+      "formatted": "Electric/Gasoline"
+     },
+     "fuelConsumptionCombined": {
+      "raw": 3.9,
+      "formatted": "3.90 l/100 km (comb.)",
+      "isFallback": false
+     },
+     "co2emissionInGramPerKmWithFallback": {
+      "raw": 104,
+      "formatted": "104 g/km (comb.)",
+      "isFallback": false
+     },
+     "electricRangeWithFallback": {
+      "raw": null,
+      "formatted": null
+     },
+     "equipment": {
+      "comfortAndConvenience": [
+       {
+        "id": "Air conditioning",
+        "categoryName": "Comfort & Convenience",
+        "categoryId": "comfortAndConvenience"
+       },
+       {
+        "id": "Automatic climate control",
+        "categoryName": "Comfort & Convenience",
+        "categoryId": "comfortAndConvenience"
+       },
+       {
+        "id": "Cruise control",
+        "categoryName": "Comfort & Convenience",
+        "categoryId": "comfortAndConvenience"
+       },
+       {
+        "id": "Electrical side mirrors",
+        "categoryName": "Comfort & Convenience",
+        "categoryId": "comfortAndConvenience"
+       }
+      ],
+      "entertainmentAndMedia": [
+       {
+        "id": "Android Auto",
+        "categoryName": "Entertainment & Media",
+        "categoryId": "entertainmentAndMedia"
+       },
+       {
+        "id": "Apple CarPlay",
+        "categoryName": "Entertainment & Media",
+        "categoryId": "entertainmentAndMedia"
+       },
+       {
+        "id": "Digital cockpit",
+        "categoryName": "Entertainment & Media",
+        "categoryId": "entertainmentAndMedia"
+       },
+       {
+        "id": "Sound system",
+        "categoryName": "Entertainment & Media",
+        "categoryId": "entertainmentAndMedia"
+       }
+      ],
+      "extras": [
+       {
+        "id": "Alloy wheels",
+        "categoryName": "Extras",
+        "categoryId": "extras"
+       },
+       {
+        "id": "Touch screen",
+        "categoryName": "Extras",
+        "categoryId": "extras"
+       }
+      ],
+      "safetyAndSecurity": [
+       {
+        "id": "ABS",
+        "categoryName": "Safety & Security",
+        "categoryId": "safetyAndSecurity"
+       },
+       {
+        "id": "Central door lock",
+        "categoryName": "Safety & Security",
+        "categoryId": "safetyAndSecurity"
+       },
+       {
+        "id": "Central door lock with remote control",
+        "categoryName": "Safety & Security",
+        "categoryId": "safetyAndSecurity"
+       },
+       {
+        "id": "Distance warning system",
+        "categoryName": "Safety & Security",
+        "categoryId": "safetyAndSecurity"
+       }
+      ]
+     },
+     "environmentEuDirective": null,
+     "environmentBImSchV35": null,
+     "hadAccident": null,
+     "hasFullServiceHistory": false,
+     "nonSmoking": false,
+     "noOfPreviousOwners": null,
+     "nextVehicleSafetyInspection": null,
+     "lastTechnicalServiceDate": null,
+     "productionYear": null,
+     "offerType": "U"
+    },
+    "location": {
+     "countryCode": "IT",
+     "zip": "27029",
+     "city": "Vigevano",
+     "street": null,
+     "latitude": 45.31709,
+     "longitude": 8.85865
+    },
+    "seller": {
+     "id": 64462249,
+     "sellId": 0,
+     "isDealer": false,
+     "type": "PrivateSeller",
+     "companyName": null,
+     "contactName": null,
+     "links": {
+      "infoPage": null,
+      "imprint": null,
+      "stockLink": null
+     },
+     "phones": [
+      {
+       "phoneType": "Private",
+       "formattedNumber": "+49 (0)30 - 00000033",
+       "callTo": "+493000000033"
+      }
+     ],
+     "dealer": {
+      "culture": null,
+      "homepageUrl": null
+     }
+    },
+    "webPage": "https://www.autoscout24.com/offers/fiat-500-1-0-hybrid-dolcevita-70cv-electric-gasoline-cat_ma28mo15160-97ad4cb7-7b8e-4c3a-9891-0b6719a0c430",
+    "status": "Active",
+    "warranty": null,
+    "createdTimestampWithOffset": "2026-10-17T15:23:38.163Z"
+   }
+  }
+ },
+ "page": "/details/[...slug]",
+ "query": {
+  "slug": [
+   "fiat-500-1-0-hybrid-dolcevita-70cv-electric-gasoline-cat_ma28mo15160-97ad4cb7-7b8e-4c3a-9891-0b6719a0c430"
+  ]
+ }
+}

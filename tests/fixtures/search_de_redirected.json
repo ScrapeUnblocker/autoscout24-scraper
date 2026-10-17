@@ -1,0 +1,402 @@
+{
+ "props": {
+  "pageProps": {
+   "marketplace": {
+    "domain": "autoscout24",
+    "country": {
+     "iso": "de",
+     "tld": "de"
+    },
+    "language": {
+     "iso": "de"
+    },
+    "etldPlusOne": "autoscout24.de",
+    "slug": "AS_de_DE"
+   },
+   "pageid": "list",
+   "pageQuery": {
+    "cat": "ma13gr100038",
+    "sort": "standard",
+    "desc": "0",
+    "atype": "C",
+    "damaged_listing": "exclude",
+    "powertype": "kw",
+    "ocs_listing": "include",
+    "mcat": "ma13gr100038",
+    "mmmv": "13|||",
+    "cy": "D",
+    "lm_premium": "true",
+    "specialconditions": "true",
+    "show_nfm": "true",
+    "pricetype": "public",
+    "query_id": "1lbahas3t1g",
+    "tier_rotation": "true"
+   },
+   "numberOfResults": 10996,
+   "numberOfPages": 200,
+   "listHeaderTitle": "10.996 Angebote für BMW 3er",
+   "listings": [
+    {
+     "id": "bbb023dd-e9b8-4726-a95b-e0f230e69a96",
+     "title": "BMW 320",
+     "isTrending": false,
+     "identifier": {
+      "legacyId": null,
+      "crossReferenceId": "51066480421888"
+     },
+     "crossReferenceId": "51066480421888",
+     "images": [
+      "https://prod.pictures.autoscout24.net/listing-images/bbb023dd-e9b8-4726-a95b-e0f230e69a96_b75c5161-cf0c-45fa-b4f3-eabe4c792e6e.jpg/250x188.webp"
+     ],
+     "isOfferNew": true,
+     "price": {
+      "priceFormatted": "€ 6.990",
+      "priceEvaluation": 1,
+      "isVatLabelLegallyRequired": false,
+      "priceRaw": 6990,
+      "isPriceEvaluationEnabled": true,
+      "isConditionalPrice": false
+     },
+     "seals": [
+      {
+       "id": 162,
+       "image": "https://www.autoscout24.de/seal-images/162/NfKCXaOyf39H35WFGWGbxhgneymK7s8v/p9lgQ38rklD926gFPidxl71Qx31HhL8q.png",
+       "culture": "de-DE"
+      }
+     ],
+     "availableNow": true,
+     "availability": {
+      "fromDate": null,
+      "inDays": null
+     },
+     "superDeal": {
+      "oldPriceFormatted": "",
+      "isEligible": false
+     },
+     "url": "/angebote/bmw-3er-i-limo-service-tuev-neu-garantie-benzin-blau-cat_ma13gr100038ge25va105mt103tr479990-bbb023dd-e9b8-4726-a95b-e0f230e69a96",
+     "vehicle": {
+      "articleType": "Car",
+      "type": "Car",
+      "make": "BMW",
+      "model": "320",
+      "modelGroup": "3er",
+      "variant": "Limousine",
+      "motorTypeName": "320i",
+      "modelId": 1641,
+      "modelVersionInput": "i Limo / SERVICE / TÜV NEU / GARANTIE /",
+      "modelVersionCustom": null,
+      "subtitle": "Example dealer tagline",
+      "offerType": "U",
+      "transmission": "Schaltgetriebe",
+      "fuel": "Benzin",
+      "mileageInKm": "147.000 km",
+      "engineDisplacementInCCM": "1.995 cm³",
+      "isCurrentlyDamaged": false
+     },
+     "location": {
+      "countryCode": "DE",
+      "zip": "54340",
+      "city": "Bekond",
+      "street": "Example Street 1"
+     },
+     "ratings": {
+      "ratingsCount": 162,
+      "ratingsStars": 5,
+      "ratingsEnabled": true
+     },
+     "seller": {
+      "dealer": {
+       "culture": "de-DE"
+      },
+      "id": "11099935",
+      "type": "Dealer",
+      "companyName": "Example Autohaus 935",
+      "contactName": "Sales Team",
+      "links": {
+       "infoPage": "https://www.autoscout24.de/haendler/example-autohaus?atype=C",
+       "imprint": "https://www.autoscout24.de/haendler/example-autohaus/impressum"
+      },
+      "phones": [
+       {
+        "phoneType": "Office",
+        "formattedNumber": "+49 (0)30 - 00000021",
+        "callTo": "+493000000021"
+       },
+       {
+        "phoneType": "Mobile",
+        "formattedNumber": "+49 (0)30 - 00000022",
+        "callTo": "+493000000022"
+       },
+       {
+        "phoneType": "Whatsapp",
+        "formattedNumber": "+49 (0)30 - 00000023",
+        "callTo": "+493000000023"
+       }
+      ]
+     },
+     "appliedAdTier": "T50",
+     "adTier": "T50",
+     "isOcs": false,
+     "specialConditions": [],
+     "statistics": {
+      "leadsRange": "Some"
+     },
+     "searchResultType": "Organic",
+     "searchResultSection": "Main",
+     "tracking": {
+      "firstRegistration": "11-2010",
+      "fuelType": "b",
+      "mileage": "147000",
+      "priceLabel": "top-price",
+      "price": "6990"
+     },
+     "vehicleDetails": [
+      {
+       "data": "147.000 km",
+       "iconName": "mileage_odometer",
+       "ariaLabel": "Kilometerstand"
+      },
+      {
+       "data": "Schaltgetriebe",
+       "iconName": "gearbox",
+       "ariaLabel": "Getriebe"
+      },
+      {
+       "data": "11/2010",
+       "iconName": "calendar",
+       "ariaLabel": "Erstzulassung"
+      },
+      {
+       "data": "Benzin",
+       "iconName": "gas_pump",
+       "ariaLabel": "Kraftstoff"
+      },
+      {
+       "data": "125 kW (170 PS)",
+       "iconName": "speedometer",
+       "ariaLabel": "Leistung"
+      },
+      {
+       "data": "6,4 l/100 km (komb.)",
+       "iconName": "water_drop",
+       "ariaLabel": "Kraftstoffverbrauch",
+       "name": "fuelConsumptionExtended"
+      },
+      {
+       "data": "152 g/km (komb.)",
+       "iconName": "leaf",
+       "ariaLabel": "CO₂-Emissionen",
+       "name": "co2Emission"
+      }
+     ],
+     "wltpValues": [
+      "6,4 l/100 km (komb.)",
+      "152 g/km (komb.)"
+     ],
+     "trackingParameters": [
+      {
+       "key": "boost_level",
+       "value": "t50"
+      },
+      {
+       "key": "applied_boost_level",
+       "value": "t50"
+      },
+      {
+       "key": "relevance_adjustment",
+       "value": "boost"
+      },
+      {
+       "key": "boosting_product",
+       "value": "mia"
+      }
+     ]
+    },
+    {
+     "id": "6c94ab33-42b8-4551-b09c-43abfb815b0d",
+     "title": "BMW 318",
+     "identifier": {
+      "legacyId": null,
+      "crossReferenceId": "MDX-WDDUUUVR"
+     },
+     "crossReferenceId": "MDX-WDDUUUVR",
+     "images": [
+      "https://prod.pictures.autoscout24.net/listing-images/6c94ab33-42b8-4551-b09c-43abfb815b0d_9d0da3a8-4564-496b-941c-451ef65a0ff4.jpg/250x188.webp",
+      "https://prod.pictures.autoscout24.net/listing-images/6c94ab33-42b8-4551-b09c-43abfb815b0d_2e152b63-e4eb-4004-af14-080c10d9a4f5.jpg/250x188.webp"
+     ],
+     "price": {
+      "priceFormatted": "€ 3.680",
+      "priceEvaluation": 2,
+      "isVatLabelLegallyRequired": false,
+      "priceRaw": 3680,
+      "isPriceEvaluationEnabled": true,
+      "isConditionalPrice": true
+     },
+     "availableNow": true,
+     "availability": {
+      "fromDate": null,
+      "inDays": null
+     },
+     "superDeal": {
+      "oldPriceFormatted": "",
+      "isEligible": false
+     },
+     "url": "/angebote/bmw-3er-i-touring-klima-pano-tuev09-27-benzin-silber-cat_ma13gr100038ge25va106mt102tr479990-6c94ab33-42b8-4551-b09c-43abfb815b0d",
+     "vehicle": {
+      "articleType": "Car",
+      "type": "Car",
+      "make": "BMW",
+      "model": "318",
+      "modelGroup": "3er",
+      "variant": "Touring",
+      "motorTypeName": "318i",
+      "modelId": 1640,
+      "modelVersionInput": "i Touring *Klima/Pano/TÜV09/27*",
+      "modelVersionCustom": null,
+      "subtitle": "Example dealer tagline",
+      "offerType": "U",
+      "transmission": "Schaltgetriebe",
+      "fuel": "Benzin",
+      "mileageInKm": "127.800 km",
+      "engineDisplacementInCCM": "1.995 cm³",
+      "isCurrentlyDamaged": false
+     },
+     "location": {
+      "countryCode": "DE",
+      "zip": "86830",
+      "city": "Schwabmünchen",
+      "street": "Example Street 1"
+     },
+     "ratings": {
+      "ratingsCount": 14,
+      "ratingsStars": 5,
+      "ratingsEnabled": true
+     },
+     "seller": {
+      "dealer": {
+       "culture": "de-DE"
+      },
+      "id": "41802545",
+      "type": "Dealer",
+      "companyName": "Example Autohaus 545",
+      "contactName": "Sales Team",
+      "links": {
+       "infoPage": "https://www.autoscout24.de/haendler/example-autohaus?atype=C",
+       "imprint": "https://www.autoscout24.de/haendler/example-autohaus/impressum"
+      },
+      "phones": [
+       {
+        "phoneType": "Office",
+        "formattedNumber": "+49 (0)30 - 00000024",
+        "callTo": "+493000000024"
+       },
+       {
+        "phoneType": "Office",
+        "formattedNumber": "+49 (0)30 - 00000025",
+        "callTo": "+493000000025"
+       },
+       {
+        "phoneType": "Whatsapp",
+        "formattedNumber": "+49 (0)30 - 00000026",
+        "callTo": "+493000000026"
+       }
+      ]
+     },
+     "appliedAdTier": "T50",
+     "adTier": "T50",
+     "isOcs": false,
+     "specialConditions": [],
+     "statistics": {
+      "leadsRange": "Some"
+     },
+     "searchResultType": "Organic",
+     "searchResultSection": "Main",
+     "tracking": {
+      "firstRegistration": "10-2010",
+      "fuelType": "b",
+      "mileage": "127800",
+      "priceLabel": "good-price",
+      "price": "3680"
+     },
+     "vehicleDetails": [
+      {
+       "data": "127.800 km",
+       "iconName": "mileage_odometer",
+       "ariaLabel": "Kilometerstand"
+      },
+      {
+       "data": "Schaltgetriebe",
+       "iconName": "gearbox",
+       "ariaLabel": "Getriebe"
+      },
+      {
+       "data": "10/2010",
+       "iconName": "calendar",
+       "ariaLabel": "Erstzulassung"
+      },
+      {
+       "data": "Benzin",
+       "iconName": "gas_pump",
+       "ariaLabel": "Kraftstoff"
+      },
+      {
+       "data": "105 kW (143 PS)",
+       "iconName": "speedometer",
+       "ariaLabel": "Leistung"
+      },
+      {
+       "data": "- (l/100 km)",
+       "isPlaceholder": true,
+       "iconName": "water_drop",
+       "ariaLabel": "Kraftstoffverbrauch",
+       "name": "fuelConsumptionExtended"
+      },
+      {
+       "data": "147 g/km (komb.)",
+       "iconName": "leaf",
+       "ariaLabel": "CO₂-Emissionen",
+       "name": "co2Emission"
+      },
+      {
+       "data": "CO₂-Klasse E (komb.)",
+       "iconName": "efficiency",
+       "ariaLabel": "CO₂-Klasse"
+      }
+     ],
+     "wltpValues": [
+      "- (l/100 km)",
+      "147 g/km (komb.)",
+      "CO₂-Klasse E (komb.)"
+     ],
+     "trackingParameters": [
+      {
+       "key": "boost_level",
+       "value": "t50"
+      },
+      {
+       "key": "applied_boost_level",
+       "value": "t50"
+      },
+      {
+       "key": "relevance_adjustment",
+       "value": "boost"
+      },
+      {
+       "key": "boosting_product",
+       "value": "mia"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "page": "/lst/[...slug]",
+ "query": {
+  "cy": "D",
+  "atype": "C",
+  "slug": [
+   "bmw",
+   "3er"
+  ]
+ }
+}

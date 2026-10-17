@@ -1,0 +1,382 @@
+{
+ "props": {
+  "pageProps": {
+   "marketplace": {
+    "domain": "autoscout24",
+    "country": {
+     "iso": "de",
+     "tld": "de"
+    },
+    "language": {
+     "iso": "de"
+    },
+    "etldPlusOne": "autoscout24.de",
+    "slug": "AS_de_DE"
+   },
+   "pageid": "list",
+   "pageQuery": {
+    "cat": "ma13gr100038",
+    "sort": "standard",
+    "desc": "0",
+    "atype": "C",
+    "damaged_listing": "exclude",
+    "powertype": "kw",
+    "ocs_listing": "include",
+    "mcat": "ma13gr100038",
+    "fuel": "D",
+    "gear": "A",
+    "mmmv": "13|||",
+    "cy": "D",
+    "lm_premium": "true",
+    "specialconditions": "true",
+    "show_nfm": "true",
+    "pricetype": "public",
+    "query_id": "1lk3yxaoeqj",
+    "tier_rotation": "true"
+   },
+   "numberOfResults": 4368,
+   "numberOfPages": 200,
+   "listHeaderTitle": "4.368 Angebote für BMW 3er Diesel Automatik",
+   "listings": [
+    {
+     "id": "c3b78780-7f89-4cb8-81b7-c5194b7aca41",
+     "title": "BMW 3er Touring 320d",
+     "identifier": {
+      "legacyId": null,
+      "crossReferenceId": "472677"
+     },
+     "crossReferenceId": "472677",
+     "images": [
+      "https://prod.pictures.autoscout24.net/listing-images/c3b78780-7f89-4cb8-81b7-c5194b7aca41_83f18204-17fb-43b6-9286-6494ee36cdf8.jpg/250x188.webp",
+      "https://prod.pictures.autoscout24.net/listing-images/c3b78780-7f89-4cb8-81b7-c5194b7aca41_22b2a7eb-f6ba-40cf-9f4d-f1bb7dc4ce4b.jpg/250x188.webp"
+     ],
+     "price": {
+      "priceFormatted": "€ 26.789",
+      "vatLabel": "inkl. MwSt.",
+      "isVatLabelLegallyRequired": false,
+      "priceSuperscriptString": "1",
+      "priceRaw": 26789,
+      "isPriceEvaluationEnabled": true,
+      "isConditionalPrice": false
+     },
+     "availableNow": true,
+     "availability": {
+      "fromDate": null,
+      "inDays": null
+     },
+     "superDeal": {
+      "oldPriceFormatted": "",
+      "isEligible": false
+     },
+     "url": "/angebote/bmw-3er-320d-touring-aut-m-sport-ahk-hk-leder-diesel-grau-cat_ma13gr100038ge28va106mt118tr196-c3b78780-7f89-4cb8-81b7-c5194b7aca41",
+     "vehicle": {
+      "articleType": "Car",
+      "type": "Car",
+      "make": "BMW",
+      "model": "320",
+      "modelGroup": "3er",
+      "variant": "Touring",
+      "motorTypeName": "320d",
+      "modelId": 1641,
+      "modelVersionInput": "320d Touring Aut. M Sport AHK H&K Leder",
+      "modelVersionCustom": null,
+      "subtitle": null,
+      "offerType": "A",
+      "transmission": "Automatik",
+      "fuel": "Diesel",
+      "mileageInKm": "96.347 km",
+      "engineDisplacementInCCM": "1.995 cm³",
+      "isCurrentlyDamaged": false
+     },
+     "location": {
+      "countryCode": "DE",
+      "zip": "35463",
+      "city": "Fernwald-Steinbach",
+      "street": "Example Street 1"
+     },
+     "ratings": {
+      "ratingsCount": 741,
+      "ratingsStars": 4.5,
+      "ratingsEnabled": true
+     },
+     "seller": {
+      "dealer": {
+       "culture": "de-DE"
+      },
+      "id": "5623",
+      "type": "Dealer",
+      "companyName": "Example Autohaus 623",
+      "contactName": "Sales Team",
+      "links": {
+       "infoPage": "https://www.autoscout24.de/haendler/example-autohaus?atype=C",
+       "imprint": "https://www.autoscout24.de/haendler/example-autohaus/impressum"
+      },
+      "phones": [
+       {
+        "phoneType": "Office",
+        "formattedNumber": "+49 (0)30 - 00000027",
+        "callTo": "+493000000027"
+       }
+      ]
+     },
+     "appliedAdTier": "T50",
+     "adTier": "T50",
+     "isOcs": false,
+     "specialConditions": [],
+     "statistics": {
+      "leadsRange": "Some"
+     },
+     "searchResultType": "Organic",
+     "searchResultSection": "Main",
+     "tracking": {
+      "firstRegistration": "07-2023",
+      "fuelType": "d",
+      "mileage": "96347",
+      "priceLabel": "unknown",
+      "price": "26789"
+     },
+     "vehicleDetails": [
+      {
+       "data": "96.347 km",
+       "iconName": "mileage_odometer",
+       "ariaLabel": "Kilometerstand"
+      },
+      {
+       "data": "Automatik",
+       "iconName": "gearbox",
+       "ariaLabel": "Getriebe"
+      },
+      {
+       "data": "07/2023",
+       "iconName": "calendar",
+       "ariaLabel": "Erstzulassung"
+      },
+      {
+       "data": "Diesel",
+       "iconName": "gas_pump",
+       "ariaLabel": "Kraftstoff"
+      },
+      {
+       "data": "140 kW (190 PS)",
+       "iconName": "speedometer",
+       "ariaLabel": "Leistung"
+      },
+      {
+       "data": "- (l/100 km)",
+       "isPlaceholder": true,
+       "iconName": "water_drop",
+       "ariaLabel": "Kraftstoffverbrauch",
+       "name": "fuelConsumptionExtended"
+      },
+      {
+       "data": "- (g/km)",
+       "iconName": "leaf",
+       "isPlaceholder": true,
+       "ariaLabel": "CO₂-Emissionen",
+       "name": "co2Emission"
+      }
+     ],
+     "wltpValues": [],
+     "trackingParameters": [
+      {
+       "key": "boost_level",
+       "value": "t50"
+      },
+      {
+       "key": "applied_boost_level",
+       "value": "t50"
+      },
+      {
+       "key": "relevance_adjustment",
+       "value": "boost"
+      },
+      {
+       "key": "boosting_product",
+       "value": "mia"
+      }
+     ]
+    },
+    {
+     "id": "059e86b3-c573-42b2-821d-2a2aedf0be3a",
+     "title": "BMW 3er Touring 320d",
+     "identifier": {
+      "legacyId": null,
+      "crossReferenceId": null
+     },
+     "images": [
+      "https://prod.pictures.autoscout24.net/listing-images/059e86b3-c573-42b2-821d-2a2aedf0be3a_d37d2c88-16ee-4bbb-8a61-c44cccc1a251.jpg/250x188.webp",
+      "https://prod.pictures.autoscout24.net/listing-images/059e86b3-c573-42b2-821d-2a2aedf0be3a_4b2847b8-092b-4716-9a65-52e916a51899.jpg/250x188.webp"
+     ],
+     "price": {
+      "priceFormatted": "€ 11.499",
+      "priceEvaluation": 2,
+      "isVatLabelLegallyRequired": false,
+      "priceRaw": 11499,
+      "isPriceEvaluationEnabled": true,
+      "isConditionalPrice": false
+     },
+     "availableNow": true,
+     "availability": {
+      "fromDate": null,
+      "inDays": null
+     },
+     "superDeal": {
+      "oldPriceFormatted": "",
+      "isEligible": false
+     },
+     "url": "/angebote/bmw-3er-navi-pdc-sitzhzg-xenon-geschwindigkeitsreg-diesel-schwarz-cat_ma13gr100038ge26va106mt118tr197-059e86b3-c573-42b2-821d-2a2aedf0be3a",
+     "vehicle": {
+      "articleType": "Car",
+      "type": "Car",
+      "make": "BMW",
+      "model": "320",
+      "modelGroup": "3er",
+      "variant": "Touring",
+      "motorTypeName": "320d",
+      "modelId": 1641,
+      "modelVersionInput": "Navi PDC Sitzhzg Xenon Geschwindigkeitsreg",
+      "modelVersionCustom": null,
+      "subtitle": "Example dealer tagline",
+      "offerType": "U",
+      "transmission": "Automatik",
+      "fuel": "Diesel",
+      "mileageInKm": "145.000 km",
+      "engineDisplacementInCCM": "1.995 cm³"
+     },
+     "location": {
+      "countryCode": "DE",
+      "zip": "29225",
+      "city": "Celle",
+      "street": "Example Street 1"
+     },
+     "ratings": {
+      "ratingsCount": 118,
+      "ratingsStars": 4.5,
+      "ratingsEnabled": true
+     },
+     "seller": {
+      "dealer": {
+       "culture": "de-DE"
+      },
+      "id": "27608613",
+      "type": "Dealer",
+      "companyName": "Example Autohaus 613",
+      "contactName": "Sales Team",
+      "links": {
+       "infoPage": "https://www.autoscout24.de/haendler/example-autohaus?atype=C",
+       "imprint": "https://www.autoscout24.de/haendler/example-autohaus/impressum"
+      },
+      "phones": [
+       {
+        "phoneType": "Office",
+        "formattedNumber": "+49 (0)30 - 00000028",
+        "callTo": "+493000000028"
+       },
+       {
+        "phoneType": "Office",
+        "formattedNumber": "+49 (0)30 - 00000029",
+        "callTo": "+493000000029"
+       },
+       {
+        "phoneType": "Whatsapp",
+        "formattedNumber": "+49 (0)30 - 00000030",
+        "callTo": "+493000000030"
+       }
+      ]
+     },
+     "appliedAdTier": "T50",
+     "adTier": "T50",
+     "isOcs": false,
+     "specialConditions": [],
+     "statistics": {
+      "leadsRange": "Some"
+     },
+     "searchResultType": "Organic",
+     "searchResultSection": "Main",
+     "tracking": {
+      "firstRegistration": "07-2014",
+      "fuelType": "d",
+      "mileage": "145000",
+      "priceLabel": "good-price",
+      "price": "11499"
+     },
+     "vehicleDetails": [
+      {
+       "data": "145.000 km",
+       "iconName": "mileage_odometer",
+       "ariaLabel": "Kilometerstand"
+      },
+      {
+       "data": "Automatik",
+       "iconName": "gearbox",
+       "ariaLabel": "Getriebe"
+      },
+      {
+       "data": "07/2014",
+       "iconName": "calendar",
+       "ariaLabel": "Erstzulassung"
+      },
+      {
+       "data": "Diesel",
+       "iconName": "gas_pump",
+       "ariaLabel": "Kraftstoff"
+      },
+      {
+       "data": "135 kW (184 PS)",
+       "iconName": "speedometer",
+       "ariaLabel": "Leistung"
+      },
+      {
+       "data": "4,7 l/100 km (komb.)",
+       "iconName": "water_drop",
+       "ariaLabel": "Kraftstoffverbrauch",
+       "name": "fuelConsumptionExtended"
+      },
+      {
+       "data": "- (g/km)",
+       "iconName": "leaf",
+       "ariaLabel": "CO₂-Emissionen",
+       "name": "co2Emission"
+      },
+      {
+       "data": "CO₂-Klasse A (komb.)",
+       "iconName": "efficiency",
+       "ariaLabel": "CO₂-Klasse"
+      }
+     ],
+     "wltpValues": [
+      "4,7 l/100 km (komb.)",
+      "- (g/km)",
+      "CO₂-Klasse A (komb.)"
+     ],
+     "trackingParameters": [
+      {
+       "key": "boost_level",
+       "value": "t50"
+      },
+      {
+       "key": "applied_boost_level",
+       "value": "t50"
+      },
+      {
+       "key": "relevance_adjustment",
+       "value": "boost"
+      },
+      {
+       "key": "boosting_product",
+       "value": "listing_boost"
+      }
+     ]
+    }
+   ]
+  }
+ },
+ "page": "/lst",
+ "query": {
+  "atype": "C",
+  "cy": "D",
+  "fuel": "D",
+  "gear": "A",
+  "mmmv": "13||38|"
+ }
+}

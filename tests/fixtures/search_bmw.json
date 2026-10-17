@@ -1,0 +1,1342 @@
+{
+ "props": {
+  "pageProps": {
+   "marketplace": {
+    "domain": "autoscout24",
+    "country": {
+     "iso": "gb",
+     "tld": "com"
+    },
+    "language": {
+     "iso": "en"
+    },
+    "etldPlusOne": "autoscout24.com",
+    "slug": "AS_en_GB"
+   },
+   "pageid": "list",
+   "pageQuery": {
+    "cat": "ma13",
+    "ustate": "N,U",
+    "sort": "standard",
+    "desc": "0",
+    "atype": "C",
+    "powertype": "kw",
+    "ocs_listing": "include",
+    "mmmv": "13|||",
+    "page": "1",
+    "cy": "D",
+    "show_nfm": "true",
+    "pricetype": "public",
+    "query_id": "1nlmm9ayp21",
+    "tier_rotation": "true"
+   },
+   "numberOfResults": 61502,
+   "numberOfPages": 200,
+   "listHeaderTitle": "61,502 listings for BMW",
+   "listings": [
+    {
+     "id": "4856d9fc-5333-4c29-8ed2-0bd35c8e6422",
+     "title": "BMW 435",
+     "identifier": {
+      "legacyId": null,
+      "crossReferenceId": null
+     },
+     "images": [
+      "https://prod.pictures.autoscout24.net/listing-images/4856d9fc-5333-4c29-8ed2-0bd35c8e6422_3dcb3efd-614d-4de3-a4b1-1749a9e0c972.jpg/250x188.webp",
+      "https://prod.pictures.autoscout24.net/listing-images/4856d9fc-5333-4c29-8ed2-0bd35c8e6422_ed8ba635-2424-4b10-b16f-80bf41bda78e.jpg/250x188.webp"
+     ],
+     "isOfferNew": true,
+     "price": {
+      "priceFormatted": "€ 20,999",
+      "isVatLabelLegallyRequired": false,
+      "priceRaw": 20999,
+      "isConditionalPrice": false
+     },
+     "availableNow": true,
+     "availability": {
+      "fromDate": null,
+      "inDays": null
+     },
+     "superDeal": {
+      "oldPriceFormatted": "",
+      "isEligible": false
+     },
+     "url": "/offers/bmw-435-435-i-xdrive-pdc-leder-navi-shz-tempo-gasoline-red-cat_ma13mo20288-4856d9fc-5333-4c29-8ed2-0bd35c8e6422",
+     "vehicle": {
+      "articleType": "Car",
+      "type": "Car",
+      "make": "BMW",
+      "model": "435",
+      "modelGroup": "4 Series",
+      "variant": "Coupe",
+      "motorTypeName": "435i",
+      "modelId": 20288,
+      "modelVersionInput": "435 i xDrive/Pdc/Leder/Navi/Shz/Tempo",
+      "modelVersionCustom": null,
+      "subtitle": null,
+      "offerType": "U",
+      "transmission": "Automatic",
+      "fuel": "Gasoline",
+      "mileageInKm": "138,000 km",
+      "isCurrentlyDamaged": false
+     },
+     "location": {
+      "countryCode": "DE",
+      "zip": "64521",
+      "city": "Groß-Gerau",
+      "street": "Example Street 1"
+     },
+     "seller": {
+      "dealer": {
+       "culture": "de-DE"
+      },
+      "id": "64286162",
+      "type": "Dealer",
+      "companyName": "Example Autohaus 162",
+      "contactName": "Sales Team",
+      "links": {
+       "infoPage": "https://www.autoscout24.com/dealerinfo/example-autohaus?atype=C",
+       "imprint": "https://www.autoscout24.com/dealerinfo/example-autohaus/imprint"
+      },
+      "phones": [
+       {
+        "phoneType": "Office",
+        "formattedNumber": "+49 (0)30 - 00000001",
+        "callTo": "+493000000001"
+       },
+       {
+        "phoneType": "Mobile",
+        "formattedNumber": "+49 (0)30 - 00000002",
+        "callTo": "+493000000002"
+       }
+      ]
+     },
+     "appliedAdTier": "T50",
+     "adTier": "T50",
+     "isOcs": false,
+     "specialConditions": [],
+     "statistics": {
+      "leadsRange": "Some"
+     },
+     "searchResultType": "Organic",
+     "searchResultSection": "Main",
+     "tracking": {
+      "firstRegistration": "05-2014",
+      "fuelType": "b",
+      "mileage": "138000",
+      "priceLabel": "good-price",
+      "price": "20999"
+     },
+     "vehicleDetails": [
+      {
+       "data": "138,000 km",
+       "iconName": "mileage_odometer",
+       "ariaLabel": "Mileage"
+      },
+      {
+       "data": "Automatic",
+       "iconName": "gearbox",
+       "ariaLabel": "Gear"
+      },
+      {
+       "data": "05/2014",
+       "iconName": "calendar",
+       "ariaLabel": "First registration"
+      },
+      {
+       "data": "Gasoline",
+       "iconName": "gas_pump",
+       "ariaLabel": "Fuel type"
+      },
+      {
+       "data": "225 kW (306 hp)",
+       "iconName": "speedometer",
+       "ariaLabel": "Power"
+      }
+     ],
+     "wltpValues": [],
+     "trackingParameters": [
+      {
+       "key": "boost_level",
+       "value": "t50"
+      },
+      {
+       "key": "applied_boost_level",
+       "value": "t50"
+      },
+      {
+       "key": "relevance_adjustment",
+       "value": "boost"
+      },
+      {
+       "key": "boosting_product",
+       "value": "mia"
+      }
+     ]
+    },
+    {
+     "id": "aca5c737-ef34-4c70-86b0-621aca1c80e5",
+     "title": "BMW 520",
+     "identifier": {
+      "legacyId": null,
+      "crossReferenceId": "157576605"
+     },
+     "crossReferenceId": "157576605",
+     "images": [
+      "https://prod.pictures.autoscout24.net/listing-images/aca5c737-ef34-4c70-86b0-621aca1c80e5_9c0f0233-594f-4cd3-87f2-6d5731c8bd89.jpg/250x188.webp",
+      "https://prod.pictures.autoscout24.net/listing-images/aca5c737-ef34-4c70-86b0-621aca1c80e5_66a2638b-747d-4fba-b2a2-fed4991ae0c7.jpg/250x188.webp"
+     ],
+     "price": {
+      "priceFormatted": "€ 5,849",
+      "isVatLabelLegallyRequired": false,
+      "priceRaw": 5849,
+      "isConditionalPrice": false
+     },
+     "availableNow": true,
+     "availability": {
+      "fromDate": null,
+      "inDays": null
+     },
+     "superDeal": {
+      "oldPriceFormatted": "",
+      "isEligible": false
+     },
+     "url": "/offers/bmw-520-steuerkette-defekt-pano-leder-standhzg-led-navi-m-gasoline-blue-cat_ma13mo1648-aca5c737-ef34-4c70-86b0-621aca1c80e5",
+     "vehicle": {
+      "articleType": "Car",
+      "type": "Car",
+      "make": "BMW",
+      "model": "520",
+      "modelGroup": "5 Series",
+      "variant": "Touring",
+      "motorTypeName": "520i",
+      "modelId": 1648,
+      "modelVersionInput": "STEUERKETTE DEFEKT! PANO/LEDER/STANDHZG/LED/NAVI/M",
+      "modelVersionCustom": null,
+      "subtitle": null,
+      "offerType": "U",
+      "transmission": "Automatic",
+      "fuel": "Gasoline",
+      "mileageInKm": "180,000 km",
+      "engineDisplacementInCCM": "1,998 cc"
+     },
+     "location": {
+      "countryCode": "DE",
+      "zip": "64569",
+      "city": "Nauheim",
+      "street": "Example Street 1"
+     },
+     "ratings": {
+      "ratingsCount": 69,
+      "ratingsStars": 5,
+      "ratingsEnabled": true
+     },
+     "seller": {
+      "dealer": {
+       "culture": "de-DE"
+      },
+      "id": "46558379",
+      "type": "Dealer",
+      "companyName": "Example Autohaus 379",
+      "contactName": "Sales Team",
+      "links": {
+       "infoPage": "https://www.autoscout24.com/dealerinfo/example-autohaus?atype=C",
+       "imprint": "https://www.autoscout24.com/dealerinfo/example-autohaus/imprint"
+      },
+      "phones": [
+       {
+        "phoneType": "Office",
+        "formattedNumber": "+49 (0)30 - 00000003",
+        "callTo": "+493000000003"
+       },
+       {
+        "phoneType": "Mobile",
+        "formattedNumber": "+49 (0)30 - 00000004",
+        "callTo": "+493000000004"
+       },
+       {
+        "phoneType": "Whatsapp",
+        "formattedNumber": "+49 (0)30 - 00000005",
+        "callTo": "+493000000005"
+       }
+      ]
+     },
+     "appliedAdTier": "T50",
+     "adTier": "T50",
+     "isOcs": false,
+     "specialConditions": [],
+     "statistics": {
+      "leadsRange": "Some"
+     },
+     "searchResultType": "Organic",
+     "searchResultSection": "Main",
+     "tracking": {
+      "firstRegistration": "02-2012",
+      "fuelType": "b",
+      "mileage": "180000",
+      "priceLabel": "top-price",
+      "price": "5849"
+     },
+     "vehicleDetails": [
+      {
+       "data": "180,000 km",
+       "iconName": "mileage_odometer",
+       "ariaLabel": "Mileage"
+      },
+      {
+       "data": "Automatic",
+       "iconName": "gearbox",
+       "ariaLabel": "Gear"
+      },
+      {
+       "data": "02/2012",
+       "iconName": "calendar",
+       "ariaLabel": "First registration"
+      },
+      {
+       "data": "Gasoline",
+       "iconName": "gas_pump",
+       "ariaLabel": "Fuel type"
+      },
+      {
+       "data": "135 kW (184 hp)",
+       "iconName": "speedometer",
+       "ariaLabel": "Power"
+      }
+     ],
+     "wltpValues": [],
+     "trackingParameters": [
+      {
+       "key": "boost_level",
+       "value": "t50"
+      },
+      {
+       "key": "applied_boost_level",
+       "value": "t50"
+      },
+      {
+       "key": "relevance_adjustment",
+       "value": "boost"
+      },
+      {
+       "key": "boosting_product",
+       "value": "mia"
+      }
+     ]
+    },
+    {
+     "id": "158ebe25-2453-4ddc-9059-e88c8c5ff3c5",
+     "title": "BMW 118",
+     "identifier": {
+      "legacyId": null,
+      "crossReferenceId": "50645060462336"
+     },
+     "crossReferenceId": "50645060462336",
+     "images": [
+      "https://prod.pictures.autoscout24.net/listing-images/158ebe25-2453-4ddc-9059-e88c8c5ff3c5_5ca96493-c59c-4891-b535-c15b00f0fb74.jpg/250x188.webp",
+      "https://prod.pictures.autoscout24.net/listing-images/158ebe25-2453-4ddc-9059-e88c8c5ff3c5_036a5728-265d-4ac4-9cbd-8c6ee5c95d63.jpg/250x188.webp"
+     ],
+     "isOfferNew": true,
+     "price": {
+      "priceFormatted": "€ 6,600",
+      "isVatLabelLegallyRequired": false,
+      "priceRaw": 6600,
+      "isConditionalPrice": false
+     },
+     "availableNow": true,
+     "availability": {
+      "fromDate": null,
+      "inDays": null
+     },
+     "superDeal": {
+      "oldPriceFormatted": "",
+      "isEligible": false
+     },
+     "url": "/offers/bmw-118-d-tempomat-tuev-05-2028-unfallfrei-143-ps-diesel-grey-cat_ma13mo18481-158ebe25-2453-4ddc-9059-e88c8c5ff3c5",
+     "vehicle": {
+      "articleType": "Car",
+      "type": "Car",
+      "make": "BMW",
+      "model": "118",
+      "modelGroup": "1 Series",
+      "variant": "Hatchback 5-Door",
+      "motorTypeName": "118d",
+      "modelId": 18481,
+      "modelVersionInput": "d Tempomat TÜV 05/2028 UNFALLFREI 143 PS",
+      "modelVersionCustom": null,
+      "subtitle": null,
+      "offerType": "U",
+      "transmission": "Manual",
+      "fuel": "Diesel",
+      "mileageInKm": "172,000 km",
+      "engineDisplacementInCCM": "1,995 cc",
+      "isCurrentlyDamaged": false
+     },
+     "location": {
+      "countryCode": "DE",
+      "zip": "30419",
+      "city": "Hannover",
+      "street": "Example Street 1"
+     },
+     "seller": {
+      "dealer": {
+       "culture": "de-DE"
+      },
+      "id": "64005237",
+      "type": "Dealer",
+      "companyName": "Example Autohaus 237",
+      "contactName": "Sales Team",
+      "links": {
+       "infoPage": "https://www.autoscout24.com/dealerinfo/example-autohaus?atype=C",
+       "imprint": "https://www.autoscout24.com/dealerinfo/example-autohaus/imprint"
+      },
+      "phones": [
+       {
+        "phoneType": "Office",
+        "formattedNumber": "+49 (0)30 - 00000006",
+        "callTo": "+493000000006"
+       },
+       {
+        "phoneType": "Mobile",
+        "formattedNumber": "+49 (0)30 - 00000007",
+        "callTo": "+493000000007"
+       }
+      ]
+     },
+     "appliedAdTier": "T50",
+     "adTier": "T50",
+     "isOcs": false,
+     "specialConditions": [],
+     "statistics": {
+      "leadsRange": "Zero"
+     },
+     "searchResultType": "Organic",
+     "searchResultSection": "Main",
+     "tracking": {
+      "firstRegistration": "09-2014",
+      "fuelType": "d",
+      "mileage": "172000",
+      "priceLabel": "fair-price",
+      "price": "6600"
+     },
+     "vehicleDetails": [
+      {
+       "data": "172,000 km",
+       "iconName": "mileage_odometer",
+       "ariaLabel": "Mileage"
+      },
+      {
+       "data": "Manual",
+       "iconName": "gearbox",
+       "ariaLabel": "Gear"
+      },
+      {
+       "data": "09/2014",
+       "iconName": "calendar",
+       "ariaLabel": "First registration"
+      },
+      {
+       "data": "Diesel",
+       "iconName": "gas_pump",
+       "ariaLabel": "Fuel type"
+      },
+      {
+       "data": "105 kW (143 hp)",
+       "iconName": "speedometer",
+       "ariaLabel": "Power"
+      }
+     ],
+     "wltpValues": [
+      "4.1 l/100 km (comb.)",
+      "- (g/km)"
+     ],
+     "trackingParameters": [
+      {
+       "key": "boost_level",
+       "value": "t50"
+      },
+      {
+       "key": "applied_boost_level",
+       "value": "t50"
+      },
+      {
+       "key": "relevance_adjustment",
+       "value": "boost"
+      },
+      {
+       "key": "boosting_product",
+       "value": "mia"
+      }
+     ]
+    },
+    {
+     "id": "0dab9761-de2d-4f1b-9eee-4cf76808f9b5",
+     "title": "BMW 318",
+     "identifier": {
+      "legacyId": null,
+      "crossReferenceId": "447396787"
+     },
+     "crossReferenceId": "447396787",
+     "images": [
+      "https://prod.pictures.autoscout24.net/listing-images/0dab9761-de2d-4f1b-9eee-4cf76808f9b5_d342ca7e-45a1-496b-90f3-a5b848e0dde9.jpg/250x188.webp",
+      "https://prod.pictures.autoscout24.net/listing-images/0dab9761-de2d-4f1b-9eee-4cf76808f9b5_9da75c01-70fd-4f6c-b0cc-66cde4897a1d.jpg/250x188.webp"
+     ],
+     "price": {
+      "priceFormatted": "€ 2,999",
+      "isVatLabelLegallyRequired": false,
+      "priceRaw": 2999,
+      "isConditionalPrice": false
+     },
+     "availableNow": true,
+     "availability": {
+      "fromDate": null,
+      "inDays": null
+     },
+     "superDeal": {
+      "oldPriceFormatted": "€ 3,490,-",
+      "isEligible": true
+     },
+     "url": "/offers/bmw-318-d-touring-diesel-black-cat_ma13mo1640-0dab9761-de2d-4f1b-9eee-4cf76808f9b5",
+     "vehicle": {
+      "articleType": "Car",
+      "type": "Car",
+      "make": "BMW",
+      "model": "318",
+      "modelGroup": "3 Series",
+      "variant": "Touring",
+      "motorTypeName": "318d",
+      "modelId": 1640,
+      "modelVersionInput": "d Touring",
+      "modelVersionCustom": null,
+      "subtitle": null,
+      "offerType": "U",
+      "transmission": "Manual",
+      "fuel": "Diesel",
+      "mileageInKm": "260,000 km",
+      "engineDisplacementInCCM": "1,995 cc",
+      "isCurrentlyDamaged": false
+     },
+     "location": {
+      "countryCode": "DE",
+      "zip": "52525",
+      "city": "Heinsberg",
+      "street": "Example Street 1"
+     },
+     "seller": {
+      "dealer": {
+       "culture": "de-DE"
+      },
+      "id": "60962480",
+      "type": "Dealer",
+      "companyName": "Example Autohaus 480",
+      "contactName": "Sales Team",
+      "links": {
+       "infoPage": "https://www.autoscout24.com/dealerinfo/example-autohaus?atype=C",
+       "imprint": "https://www.autoscout24.com/dealerinfo/example-autohaus/imprint"
+      },
+      "phones": [
+       {
+        "phoneType": "Office",
+        "formattedNumber": "+49 (0)30 - 00000008",
+        "callTo": "+493000000008"
+       },
+       {
+        "phoneType": "Mobile",
+        "formattedNumber": "+49 (0)30 - 00000009",
+        "callTo": "+493000000009"
+       }
+      ]
+     },
+     "appliedAdTier": "T50",
+     "adTier": "T50",
+     "isOcs": false,
+     "specialConditions": [],
+     "statistics": {
+      "leadsRange": "Some"
+     },
+     "searchResultType": "Organic",
+     "searchResultSection": "Main",
+     "tracking": {
+      "firstRegistration": "05-2009",
+      "fuelType": "d",
+      "mileage": "260000",
+      "priceLabel": "top-price",
+      "price": "2999"
+     },
+     "vehicleDetails": [
+      {
+       "data": "260,000 km",
+       "iconName": "mileage_odometer",
+       "ariaLabel": "Mileage"
+      },
+      {
+       "data": "Manual",
+       "iconName": "gearbox",
+       "ariaLabel": "Gear"
+      },
+      {
+       "data": "05/2009",
+       "iconName": "calendar",
+       "ariaLabel": "First registration"
+      },
+      {
+       "data": "Diesel",
+       "iconName": "gas_pump",
+       "ariaLabel": "Fuel type"
+      },
+      {
+       "data": "105 kW (143 hp)",
+       "iconName": "speedometer",
+       "ariaLabel": "Power"
+      }
+     ],
+     "wltpValues": [
+      "4.8 l/100 km (comb.)",
+      "127 g/km (comb.)"
+     ],
+     "trackingParameters": [
+      {
+       "key": "boost_level",
+       "value": "t50"
+      },
+      {
+       "key": "applied_boost_level",
+       "value": "t50"
+      },
+      {
+       "key": "relevance_adjustment",
+       "value": "boost"
+      },
+      {
+       "key": "boosting_product",
+       "value": "mia"
+      }
+     ]
+    },
+    {
+     "id": "e56e2a62-a717-4b1e-a9b8-19e02051e627",
+     "title": "Audi A4",
+     "identifier": {
+      "legacyId": null,
+      "crossReferenceId": "451794292"
+     },
+     "crossReferenceId": "451794292",
+     "images": [
+      "https://prod.pictures.autoscout24.net/listing-images/e56e2a62-a717-4b1e-a9b8-19e02051e627_429f3616-7179-4a53-91f0-c3dcd7003d47.jpg/250x188.webp",
+      "https://prod.pictures.autoscout24.net/listing-images/e56e2a62-a717-4b1e-a9b8-19e02051e627_a2a0b119-5aa5-4cf7-ba39-54da384a2272.jpg/250x188.webp"
+     ],
+     "price": {
+      "priceFormatted": "€ 18.950",
+      "priceEvaluation": 1,
+      "vatLabel": "inkl. MwSt.",
+      "isVatLabelLegallyRequired": false,
+      "priceSuperscriptString": "1",
+      "priceRaw": 18950,
+      "isPriceEvaluationEnabled": true,
+      "isConditionalPrice": false
+     },
+     "availableNow": true,
+     "availability": {
+      "fromDate": null,
+      "inDays": null
+     },
+     "superDeal": {
+      "oldPriceFormatted": "",
+      "isEligible": false
+     },
+     "url": "/angebote/audi-a4-35-tfsi-s-tronic-sitzheizung-kessy-navi-3-99-benzin-schwarz-cat_ma9gr1626ge134va134mt179tr479950-e56e2a62-a717-4b1e-a9b8-19e02051e627",
+     "vehicle": {
+      "articleType": "Car",
+      "type": "Car",
+      "make": "Audi",
+      "model": "A4",
+      "modelGroup": "A4",
+      "variant": "Avant",
+      "motorTypeName": "35 TFSI",
+      "modelId": 1626,
+      "modelVersionInput": "35 TFSI S-Tronic,Sitzheizung,Kessy,Navi,3,99%",
+      "modelVersionCustom": null,
+      "subtitle": "Example dealer tagline",
+      "offerType": "U",
+      "transmission": "Automatik",
+      "fuel": "Benzin",
+      "mileageInKm": "57.070 km",
+      "engineDisplacementInCCM": "1.984 cm³",
+      "isCurrentlyDamaged": false
+     },
+     "location": {
+      "countryCode": "DE",
+      "zip": "27809",
+      "city": "Lemwerder",
+      "street": "Example Street 1"
+     },
+     "ratings": {
+      "ratingsCount": 10,
+      "ratingsStars": 5,
+      "ratingsEnabled": true
+     },
+     "seller": {
+      "dealer": {
+       "culture": "de-DE"
+      },
+      "id": "38933082",
+      "type": "Dealer",
+      "companyName": "Example Autohaus 082",
+      "contactName": "Sales Team",
+      "links": {
+       "infoPage": "https://www.autoscout24.de/haendler/example-autohaus?atype=C",
+       "imprint": "https://www.autoscout24.de/haendler/example-autohaus/impressum"
+      },
+      "phones": [
+       {
+        "phoneType": "Office",
+        "formattedNumber": "+49 (0)30 - 00000010",
+        "callTo": "+493000000010"
+       },
+       {
+        "phoneType": "Mobile",
+        "formattedNumber": "+49 (0)30 - 00000011",
+        "callTo": "+493000000011"
+       },
+       {
+        "phoneType": "Whatsapp",
+        "formattedNumber": "+49 (0)30 - 00000012",
+        "callTo": "+493000000012"
+       }
+      ]
+     },
+     "appliedAdTier": "T50",
+     "adTier": "T50",
+     "isOcs": false,
+     "specialConditions": [],
+     "statistics": {
+      "leadsRange": "Some"
+     },
+     "searchResultType": "Organic",
+     "searchResultSection": "Main",
+     "tracking": {
+      "firstRegistration": "02-2022",
+      "fuelType": "b",
+      "mileage": "57070",
+      "priceLabel": "top-price",
+      "price": "18950"
+     },
+     "vehicleDetails": [
+      {
+       "data": "57.070 km",
+       "iconName": "mileage_odometer",
+       "ariaLabel": "Kilometerstand"
+      },
+      {
+       "data": "Automatik",
+       "iconName": "gearbox",
+       "ariaLabel": "Getriebe"
+      },
+      {
+       "data": "02/2022",
+       "iconName": "calendar",
+       "ariaLabel": "Erstzulassung"
+      },
+      {
+       "data": "Benzin",
+       "iconName": "gas_pump",
+       "ariaLabel": "Kraftstoff"
+      },
+      {
+       "data": "110 kW (150 PS)",
+       "iconName": "speedometer",
+       "ariaLabel": "Leistung"
+      },
+      {
+       "data": "6,8 l/100 km (komb.)",
+       "iconName": "water_drop",
+       "ariaLabel": "Kraftstoffverbrauch",
+       "name": "fuelConsumptionExtended"
+      },
+      {
+       "data": "153 g/km (komb.)",
+       "iconName": "leaf",
+       "ariaLabel": "CO₂-Emissionen",
+       "name": "co2Emission"
+      },
+      {
+       "data": "CO₂-Klasse E (komb.)",
+       "iconName": "efficiency",
+       "ariaLabel": "CO₂-Klasse"
+      }
+     ],
+     "wltpValues": [
+      "6,8 l/100 km (komb.)",
+      "153 g/km (komb.)",
+      "CO₂-Klasse E (komb.)"
+     ],
+     "trackingParameters": [
+      {
+       "key": "boost_level",
+       "value": "t50"
+      },
+      {
+       "key": "applied_boost_level",
+       "value": "t50"
+      },
+      {
+       "key": "relevance_adjustment",
+       "value": "boost"
+      },
+      {
+       "key": "boosting_product",
+       "value": "mia"
+      }
+     ]
+    }
+   ],
+   "taxonomy": {
+    "fuelType": [
+     {
+      "label": "Electric/Gasoline",
+      "value": "2"
+     },
+     {
+      "label": "Electric/Diesel",
+      "value": "3"
+     },
+     {
+      "label": "Gasoline",
+      "value": "B"
+     },
+     {
+      "label": "CNG",
+      "value": "C"
+     },
+     {
+      "label": "Diesel",
+      "value": "D"
+     },
+     {
+      "label": "Electric",
+      "value": "E"
+     },
+     {
+      "label": "Hydrogen",
+      "value": "H"
+     },
+     {
+      "label": "LPG",
+      "value": "L"
+     },
+     {
+      "label": "Ethanol",
+      "value": "M"
+     },
+     {
+      "label": "Others",
+      "value": "O"
+     }
+    ],
+    "bodyType": [
+     {
+      "label": "Compact",
+      "value": 1
+     },
+     {
+      "label": "Convertible",
+      "value": 2
+     },
+     {
+      "label": "Coupe",
+      "value": 3
+     },
+     {
+      "label": "SUV/Off-Road/Pick-Up",
+      "value": 4
+     },
+     {
+      "label": "Station Wagon",
+      "value": 5
+     },
+     {
+      "label": "Sedan",
+      "value": 6
+     },
+     {
+      "label": "Van",
+      "value": 12
+     },
+     {
+      "label": "Transporter",
+      "value": 13
+     },
+     {
+      "label": "Other",
+      "value": 7
+     }
+    ],
+    "gearing": [
+     {
+      "label": "Automatic",
+      "value": "A"
+     },
+     {
+      "label": "Manual",
+      "value": "M"
+     },
+     {
+      "label": "Semi-automatic",
+      "value": "S"
+     }
+    ],
+    "offer": [
+     {
+      "label": "New",
+      "value": "N"
+     },
+     {
+      "label": "Used",
+      "value": "U"
+     },
+     {
+      "label": "Employee's car",
+      "value": "J"
+     },
+     {
+      "label": "Antique / Classic",
+      "value": "O"
+     },
+     {
+      "label": "Demonstration",
+      "value": "D"
+     },
+     {
+      "label": "Pre-registered",
+      "value": "S"
+     }
+    ],
+    "customerType": [
+     {
+      "label": "Dealer",
+      "value": "D"
+     },
+     {
+      "label": "Private",
+      "value": "P"
+     }
+    ],
+    "bodyColor": [
+     {
+      "label": "Beige",
+      "value": 1
+     },
+     {
+      "label": "Blue",
+      "value": 2
+     },
+     {
+      "label": "Brown",
+      "value": 3
+     },
+     {
+      "label": "Bronze",
+      "value": 4
+     },
+     {
+      "label": "Yellow",
+      "value": 5
+     },
+     {
+      "label": "Grey",
+      "value": 6
+     },
+     {
+      "label": "Green",
+      "value": 7
+     },
+     {
+      "label": "Red",
+      "value": 10
+     },
+     {
+      "label": "Black",
+      "value": 11
+     },
+     {
+      "label": "Silver",
+      "value": 12
+     },
+     {
+      "label": "Violet",
+      "value": 13
+     },
+     {
+      "label": "White",
+      "value": 14
+     },
+     {
+      "label": "Orange",
+      "value": 15
+     },
+     {
+      "label": "Gold",
+      "value": 16
+     }
+    ],
+    "country": [
+     {
+      "label": "Europe",
+      "value": "A,B,D,E,F,I,L,NL",
+      "countryCode": "eu"
+     },
+     {
+      "label": "Austria",
+      "value": "A",
+      "countryCode": "AT"
+     },
+     {
+      "label": "Belgium",
+      "value": "B",
+      "countryCode": "BE"
+     },
+     {
+      "label": "Germany",
+      "value": "D",
+      "countryCode": "DE"
+     },
+     {
+      "label": "Spain",
+      "value": "E",
+      "countryCode": "ES"
+     },
+     {
+      "label": "France",
+      "value": "F",
+      "countryCode": "FR"
+     },
+     {
+      "label": "Italy",
+      "value": "I",
+      "countryCode": "IT"
+     },
+     {
+      "label": "Luxembourg",
+      "value": "L",
+      "countryCode": "LU"
+     },
+     {
+      "label": "Netherlands",
+      "value": "NL",
+      "countryCode": "NL"
+     }
+    ],
+    "sortingKeys": [
+     {
+      "label": "Price",
+      "value": "price"
+     },
+     {
+      "label": "Rate",
+      "value": "financerate"
+     },
+     {
+      "label": "Make/Model",
+      "value": "make"
+     },
+     {
+      "label": "Leasing Rate",
+      "value": "leasing_rate"
+     },
+     {
+      "label": "First registration",
+      "value": "year"
+     },
+     {
+      "label": "Mileage",
+      "value": "mileage"
+     },
+     {
+      "label": "Power",
+      "value": "power"
+     },
+     {
+      "label": "Latest offers first",
+      "value": "age"
+     },
+     {
+      "label": "Best results",
+      "value": "standard"
+     },
+     {
+      "label": "By distance",
+      "value": "distance"
+     }
+    ],
+    "makesSorted": [
+     {
+      "label": "Alfa Romeo",
+      "value": 6
+     },
+     {
+      "label": "Audi",
+      "value": 9
+     },
+     {
+      "label": "BMW",
+      "value": 13
+     },
+     {
+      "label": "Citroen",
+      "value": 21
+     },
+     {
+      "label": "Fiat",
+      "value": 28
+     },
+     {
+      "label": "Mercedes-Benz",
+      "value": 47
+     },
+     {
+      "label": "Porsche",
+      "value": 57
+     },
+     {
+      "label": "Volkswagen",
+      "value": 74
+     },
+     {
+      "label": "Volvo",
+      "value": 73
+     }
+    ],
+    "models": {
+     "13": [
+      {
+       "value": 1639,
+       "label": "316",
+       "makeId": 13,
+       "modelLineId": 38
+      },
+      {
+       "value": 1640,
+       "label": "318",
+       "makeId": 13,
+       "modelLineId": 38
+      },
+      {
+       "value": 1641,
+       "label": "320",
+       "makeId": 13,
+       "modelLineId": 38
+      },
+      {
+       "value": 1642,
+       "label": "323",
+       "makeId": 13,
+       "modelLineId": 38
+      },
+      {
+       "value": 1643,
+       "label": "324",
+       "makeId": 13,
+       "modelLineId": 38
+      },
+      {
+       "value": 1644,
+       "label": "325",
+       "makeId": 13,
+       "modelLineId": 38
+      },
+      {
+       "value": 1645,
+       "label": "328",
+       "makeId": 13,
+       "modelLineId": 38
+      },
+      {
+       "value": 1646,
+       "label": "M3",
+       "makeId": 13,
+       "modelLineId": 43
+      },
+      {
+       "value": 1647,
+       "label": "518",
+       "makeId": 13,
+       "modelLineId": 39
+      },
+      {
+       "value": 1648,
+       "label": "520",
+       "makeId": 13,
+       "modelLineId": 39
+      },
+      {
+       "value": 1649,
+       "label": "523",
+       "makeId": 13,
+       "modelLineId": 39
+      },
+      {
+       "value": 1650,
+       "label": "524",
+       "makeId": 13,
+       "modelLineId": 39
+      }
+     ]
+    },
+    "modelGroups": {
+     "13": [
+      {
+       "value": 100037,
+       "label": "1 Series",
+       "makeId": 13
+      },
+      {
+       "value": 100098,
+       "label": "2 Series",
+       "makeId": 13
+      },
+      {
+       "value": 2163,
+       "label": "2002",
+       "makeId": 13
+      },
+      {
+       "value": 100038,
+       "label": "3 Series",
+       "makeId": 13
+      },
+      {
+       "value": 100097,
+       "label": "4 Series",
+       "makeId": 13
+      },
+      {
+       "value": 100039,
+       "label": "5 Series",
+       "makeId": 13
+      },
+      {
+       "value": 100040,
+       "label": "6 Series",
+       "makeId": 13
+      },
+      {
+       "value": 100041,
+       "label": "7 Series",
+       "makeId": 13
+      },
+      {
+       "value": 100042,
+       "label": "8 Series",
+       "makeId": 13
+      },
+      {
+       "value": 20319,
+       "label": "i3",
+       "makeId": 13
+      },
+      {
+       "value": 75941,
+       "label": "i4",
+       "makeId": 13
+      },
+      {
+       "value": 76505,
+       "label": "i5",
+       "makeId": 13
+      }
+     ]
+    },
+    "modelLines": {
+     "13": [
+      {
+       "id": 37,
+       "name": "1-Series",
+       "vehicleTypeId": "C",
+       "label": "1 Series (all)",
+       "makeId": 13
+      },
+      {
+       "id": 38,
+       "name": "3-Series",
+       "vehicleTypeId": "C",
+       "label": "3 Series (all)",
+       "makeId": 13
+      },
+      {
+       "id": 39,
+       "name": "5-Series",
+       "vehicleTypeId": "C",
+       "label": "5 Series (all)",
+       "makeId": 13
+      },
+      {
+       "id": 40,
+       "name": "6-Series",
+       "vehicleTypeId": "C",
+       "label": "6 Series (all)",
+       "makeId": 13
+      },
+      {
+       "id": 41,
+       "name": "7-Series",
+       "vehicleTypeId": "C",
+       "label": "7 Series (all)",
+       "makeId": 13
+      },
+      {
+       "id": 42,
+       "name": "8-Series",
+       "vehicleTypeId": "C",
+       "label": "8 Series (all)",
+       "makeId": 13
+      },
+      {
+       "id": 43,
+       "name": "M-Series",
+       "vehicleTypeId": "C",
+       "label": "M Series (all)",
+       "makeId": 13
+      },
+      {
+       "id": 44,
+       "name": "X-Series",
+       "vehicleTypeId": "C",
+       "label": "X Series (all)",
+       "makeId": 13
+      },
+      {
+       "id": 45,
+       "name": "Z-Series",
+       "vehicleTypeId": "C",
+       "label": "Z Series (all)",
+       "makeId": 13
+      },
+      {
+       "id": 97,
+       "name": "4-Series",
+       "vehicleTypeId": "C",
+       "label": "4 Series (all)",
+       "makeId": 13
+      },
+      {
+       "id": 98,
+       "name": "2-Series",
+       "vehicleTypeId": "C",
+       "label": "2 Series (all)",
+       "makeId": 13
+      }
+     ]
+    }
+   }
+  }
+ },
+ "page": "/lst/[...slug]",
+ "query": {
+  "atype": "C",
+  "cy": "D",
+  "page": "1",
+  "slug": [
+   "bmw"
+  ]
+ }
+}

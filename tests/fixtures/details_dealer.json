@@ -1,0 +1,274 @@
+{
+ "props": {
+  "pageProps": {
+   "pageid": "detail",
+   "marketplace": {
+    "domain": "autoscout24",
+    "country": {
+     "iso": "gb",
+     "tld": "com"
+    },
+    "language": {
+     "iso": "en"
+    },
+    "etldPlusOne": "autoscout24.com",
+    "slug": "AS_en_GB"
+   },
+   "listingDetails": {
+    "id": "4856d9fc-5333-4c29-8ed2-0bd35c8e6422",
+    "title": "BMW 435",
+    "description": "BMW 435i xDrive Coupé, 2-türig – Benzin, Automatik mit 225 kW / 306 PS. Das Fahrzeug ist gut gepflegt und bietet umfangreiche Ausstattung mit Sportcharakter. Die HU ist bis 06.2027 gültig.<br /><ul><li><strong>Erstzulassung:</strong> 05/2014, <strong>Laufleistung:</strong> 138.000 km</li><li><strong>Antrieb:</strong> Benzin, Automatik, 6-Zylinder, 225 kW / 306 PS, 7,6 l/100 km, Euro 6</li><li><strong>Zustand &amp; Historie:</strong> Gepflegter Allgemeinzustand, Deutsches Fahrzeug</li><li><strong>Komfort &amp; Ausstattung:</strong> 2-Zonen-Klimaautomatik, Sitzheizung, Elektrische Sitze, Head-up-Display, Lederlenkrad, Schlüssellose Zentralverriegelung, Ambientebeleuchtung</li><li><strong>Fahrerassistenzsysteme:</strong> Abstandstempomat, Spurhalteassistent, Abstandswarner, Geschwindigkeitsbegrenzer</li><li><strong>Unterhaltung &amp; Navigation:</strong> Navigationssystem, Multifunktionslenkrad</li><li><strong>Beleuchtung:</strong> Xenonscheinwerfer, Blendfreies Fernlicht, Kurvenlicht</li><li><strong>Sicherheit:</strong> Airbags hinten, Alarmanlage</li><li><strong>Extras:</strong> Sportpaket, Sportfahrwerk, Alufelgen, Spoiler</li></ul>",
+    "images": [
+     "https://prod.pictures.autoscout24.net/listing-images/4856d9fc-5333-4c29-8ed2-0bd35c8e6422_3dcb3efd-614d-4de3-a4b1-1749a9e0c972.jpg/1280x960.webp",
+     "https://prod.pictures.autoscout24.net/listing-images/4856d9fc-5333-4c29-8ed2-0bd35c8e6422_ed8ba635-2424-4b10-b16f-80bf41bda78e.jpg/1280x960.webp",
+     "https://prod.pictures.autoscout24.net/listing-images/4856d9fc-5333-4c29-8ed2-0bd35c8e6422_916ed906-be0e-4f28-b2ba-f9867e2df86a.jpg/1280x960.webp"
+    ],
+    "prices": {
+     "isFinalPrice": false,
+     "public": {
+      "price": "€ 20,999",
+      "priceRaw": 20999,
+      "taxDeductible": false,
+      "negotiable": false,
+      "onRequestOnly": false,
+      "netPrice": null,
+      "netPriceRaw": null,
+      "vatRate": null,
+      "category": null,
+      "median": null,
+      "evaluationRanges": null
+     },
+     "dealer": {
+      "price": "€ 20,999",
+      "priceRaw": 20999,
+      "taxDeductible": false,
+      "negotiable": false,
+      "onRequestOnly": false,
+      "netPrice": null,
+      "netPriceRaw": null,
+      "vatRate": null,
+      "category": null,
+      "median": null,
+      "evaluationRanges": null
+     },
+     "suggestedRetail": null,
+     "popupUrl": "https://www.autoscout24.com/priceevaluation/price-label-explanation-page/4856d9fc-5333-4c29-8ed2-0bd35c8e6422?culture=en-GB",
+     "error": null
+    },
+    "price": {
+     "priceFormatted": "€ 20,999",
+     "isVatLabelLegallyRequired": false,
+     "isConditionalPrice": false
+    },
+    "vehicle": {
+     "make": "BMW",
+     "model": "435",
+     "modelGroup": "4 Series",
+     "variant": "Coupe",
+     "modelVersionInput": "435 i xDrive/Pdc/Leder/Navi/Shz/Tempo",
+     "modelVersionCustom": null,
+     "type": "Car",
+     "mileageInKmRaw": 138000,
+     "mileageInKm": "138,000 km",
+     "firstRegistrationDateRaw": "2014-05-01",
+     "firstRegistrationDate": "05/2014",
+     "bodyType": "Coupe",
+     "numberOfSeats": 4,
+     "numberOfDoors": 2,
+     "bodyColor": "Red",
+     "paintType": "Metallic",
+     "bodyColorOriginal": "MELBOURNEROT METALLIC",
+     "upholstery": "Full leather",
+     "upholsteryColor": "Black",
+     "rawPowerInKw": 225,
+     "rawPowerInHp": 306,
+     "powerInKw": "225 kW",
+     "powerInHp": "306 hp",
+     "transmissionType": "Automatic",
+     "gears": 8,
+     "cylinders": 6,
+     "driveTrain": "4x4",
+     "rawDisplacementInCCM": null,
+     "weight": null,
+     "fuelCategory": {
+      "raw": "B",
+      "formatted": "Gasoline"
+     },
+     "fuelConsumptionCombined": {
+      "raw": 7.6,
+      "formatted": "7.60 l/100 km (comb.)",
+      "isFallback": false
+     },
+     "co2emissionInGramPerKmWithFallback": {
+      "raw": 178,
+      "formatted": "178 g/km (comb.)",
+      "isFallback": false
+     },
+     "electricRangeWithFallback": {
+      "raw": null,
+      "formatted": null
+     },
+     "equipment": {
+      "comfortAndConvenience": [
+       {
+        "id": "Air conditioning",
+        "categoryName": "Comfort & Convenience",
+        "categoryId": "comfortAndConvenience"
+       },
+       {
+        "id": "Armrest",
+        "categoryName": "Comfort & Convenience",
+        "categoryId": "comfortAndConvenience"
+       },
+       {
+        "id": "Automatic climate control",
+        "categoryName": "Comfort & Convenience",
+        "categoryId": "comfortAndConvenience"
+       },
+       {
+        "id": "Cruise control",
+        "categoryName": "Comfort & Convenience",
+        "categoryId": "comfortAndConvenience"
+       }
+      ],
+      "entertainmentAndMedia": [
+       {
+        "id": "Bluetooth",
+        "categoryName": "Entertainment & Media",
+        "categoryId": "entertainmentAndMedia"
+       },
+       {
+        "id": "CD player",
+        "categoryName": "Entertainment & Media",
+        "categoryId": "entertainmentAndMedia"
+       },
+       {
+        "id": "Hands-free equipment",
+        "categoryName": "Entertainment & Media",
+        "categoryId": "entertainmentAndMedia"
+       },
+       {
+        "id": "MP3",
+        "categoryName": "Entertainment & Media",
+        "categoryId": "entertainmentAndMedia"
+       }
+      ],
+      "extras": [
+       {
+        "id": "Alloy wheels (19\")",
+        "categoryName": "Extras",
+        "categoryId": "extras"
+       },
+       {
+        "id": "Ambient lighting",
+        "categoryName": "Extras",
+        "categoryId": "extras"
+       },
+       {
+        "id": "Automatically dimming interior mirror",
+        "categoryName": "Extras",
+        "categoryId": "extras"
+       },
+       {
+        "id": "Headlight washer system",
+        "categoryName": "Extras",
+        "categoryId": "extras"
+       }
+      ],
+      "safetyAndSecurity": [
+       {
+        "id": "ABS",
+        "categoryName": "Safety & Security",
+        "categoryId": "safetyAndSecurity"
+       },
+       {
+        "id": "Adaptive Cruise Control",
+        "categoryName": "Safety & Security",
+        "categoryId": "safetyAndSecurity"
+       },
+       {
+        "id": "Adaptive headlights",
+        "categoryName": "Safety & Security",
+        "categoryId": "safetyAndSecurity"
+       },
+       {
+        "id": "Alarm system",
+        "categoryName": "Safety & Security",
+        "categoryId": "safetyAndSecurity"
+       }
+      ]
+     },
+     "environmentEuDirective": {
+      "description": null,
+      "formatted": "Euro 6",
+      "label": "EURO6",
+      "isFallback": false,
+      "co2EfficiencyClass": "EURO6"
+     },
+     "environmentBImSchV35": {
+      "description": null,
+      "formatted": "4 (Green)",
+      "label": "Green",
+      "isFallback": false,
+      "co2EfficiencyClass": "Green"
+     },
+     "hadAccident": null,
+     "hasFullServiceHistory": false,
+     "nonSmoking": true,
+     "noOfPreviousOwners": null,
+     "nextVehicleSafetyInspection": "06/2027",
+     "lastTechnicalServiceDate": null,
+     "productionYear": null,
+     "offerType": "U"
+    },
+    "location": {
+     "countryCode": "DE",
+     "zip": "64521",
+     "city": "Groß-Gerau",
+     "street": "Example Street 1",
+     "latitude": 49.91136,
+     "longitude": 8.48803
+    },
+    "seller": {
+     "id": 64286162,
+     "sellId": 2142284705,
+     "isDealer": true,
+     "type": "Dealer",
+     "companyName": "Example Autohaus 162",
+     "contactName": "Sales Team",
+     "links": {
+      "infoPage": "https://www.autoscout24.com/dealerinfo/example-autohaus/about-us",
+      "imprint": "https://www.autoscout24.com/dealerinfo/example-autohaus/imprint",
+      "stockLink": "https://www.autoscout24.com/dealerinfo/example-autohaus?atype=C"
+     },
+     "phones": [
+      {
+       "phoneType": "Office",
+       "formattedNumber": "+49 (0)30 - 00000031",
+       "callTo": "+493000000031"
+      },
+      {
+       "phoneType": "Mobile",
+       "formattedNumber": "+49 (0)30 - 00000032",
+       "callTo": "+493000000032"
+      }
+     ],
+     "dealer": {
+      "culture": "de-DE",
+      "homepageUrl": null
+     }
+    },
+    "webPage": "https://www.autoscout24.com/offers/bmw-435-435-i-xdrive-pdc-leder-navi-shz-tempo-gasoline-red-cat_ma13mo20288-4856d9fc-5333-4c29-8ed2-0bd35c8e6422",
+    "status": "Active",
+    "warranty": null,
+    "createdTimestampWithOffset": "2026-10-15T14:07:22.085Z"
+   }
+  }
+ },
+ "page": "/details/[...slug]",
+ "query": {
+  "slug": [
+   "bmw-435-435-i-xdrive-pdc-leder-navi-shz-tempo-gasoline-red-cat_ma13mo20288-4856d9fc-5333-4c29-8ed2-0bd35c8e6422"
+  ]
+ }
+}
